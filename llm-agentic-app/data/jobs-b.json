@@ -1,0 +1,965 @@
+[
+  {
+    "id": "job-machine-learning-engineer-01",
+    "role": "Machine Learning Engineer",
+    "title": "Senior Machine Learning Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "docker",
+      "kubernetes"
+    ],
+    "description": "We are seeking a Senior Machine Learning Engineer to design and deploy scalable model training workflows. You will collaborate with software engineers to containerize workloads and optimize inference throughput.",
+    "postedAt": "2026-08-18T09:00:00Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-02",
+    "role": "Machine Learning Engineer",
+    "title": "Deep Learning Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "deep learning",
+      "tensorflow"
+    ],
+    "description": "Join our core research division to build sophisticated deep neural network architectures for complex perception tasks. You will train multi-modal representations and validate model generalization across diverse datasets.",
+    "postedAt": "2026-08-25T20:39:39Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-03",
+    "role": "Machine Learning Engineer",
+    "title": "LLM Systems Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "large language models",
+      "generative ai"
+    ],
+    "description": "Help accelerate our generative artificial intelligence roadmap by serving high-performance large language models in production. You will implement efficient model quantization, caching layers, and continuous evaluation frameworks.",
+    "postedAt": "2026-09-02T08:19:19Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-04",
+    "role": "Machine Learning Engineer",
+    "title": "NLP Machine Learning Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "natural language processing",
+      "hugging face"
+    ],
+    "description": "Our conversational artificial intelligence squad is looking for a specialist in natural language processing. You will fine-tune open-source transformer models and deploy semantic retrieval microservices.",
+    "postedAt": "2026-09-09T19:58:58Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-05",
+    "role": "Machine Learning Engineer",
+    "title": "Computer Vision Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "computer vision",
+      "deep learning"
+    ],
+    "description": "Develop advanced computer vision models to automate visual quality inspection across industrial manufacturing lines. You will benchmark detection latencies and integrate custom convolutional networks into live streaming pipelines.",
+    "postedAt": "2026-09-17T07:38:38Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-06",
+    "role": "Machine Learning Engineer",
+    "title": "Junior Machine Learning Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "scikit-learn",
+      "data engineering"
+    ],
+    "description": "Kickstart your artificial intelligence career by supporting data preparation and experimental tracking pipelines. You will collaborate with senior researchers to clean feature stores and evaluate baseline models.",
+    "postedAt": "2026-09-24T19:18:18Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-07",
+    "role": "Machine Learning Engineer",
+    "title": "Lead MLOps Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "docker",
+      "ci/cd",
+      "kubernetes"
+    ],
+    "description": "We are hiring a Lead MLOps Engineer to unify our model lifecycle management and continuous deployment pipelines. You will establish production telemetry standards and reduce time-to-market for proprietary models.",
+    "postedAt": "2026-10-02T06:57:57Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-08",
+    "role": "Machine Learning Engineer",
+    "title": "Applied AI Systems Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "aws",
+      "docker"
+    ],
+    "description": "Bridge applied research and cloud deployment as an Applied AI Systems Engineer on our digital transformation team. You will package machine learning services into production cloud microservices with high reliability.",
+    "postedAt": "2026-10-09T18:37:37Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-09",
+    "role": "Machine Learning Engineer",
+    "title": "Distributed ML Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "apache spark",
+      "data engineering"
+    ],
+    "description": "Scale distributed model training across multi-node GPU clusters for our algorithmic recommendation engine. You will eliminate data loading bottlenecks and optimize gradient synchronization across worker nodes.",
+    "postedAt": "2026-10-17T06:17:17Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-10",
+    "role": "Machine Learning Engineer",
+    "title": "Reinforcement Learning Scientist",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "reinforcement learning",
+      "deep learning"
+    ],
+    "description": "Develop autonomous decision-making agents using state-of-the-art reinforcement learning algorithms. You will create realistic simulation environments and monitor policy convergence across training epochs.",
+    "postedAt": "2026-10-24T17:56:56Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-11",
+    "role": "Machine Learning Engineer",
+    "title": "Mid-Level Machine Learning Engineer",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "docker",
+      "ci/cd"
+    ],
+    "description": "Contribute to feature engineering and automated model evaluation as a Mid-Level Machine Learning Engineer. You will maintain reliable training pipelines and collaborate on model performance monitoring.",
+    "postedAt": "2026-11-01T05:36:36Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-machine-learning-engineer-12",
+    "role": "Machine Learning Engineer",
+    "title": "Principal Machine Learning Architect",
+    "skills": [
+      "machine learning",
+      "python",
+      "mlops",
+      "pytorch",
+      "large language models",
+      "kubernetes"
+    ],
+    "description": "Define the long-term technical vision and infrastructure roadmap for all machine learning initiatives across the enterprise. You will mentor engineering leads and champion algorithmic excellence across product portfolios.",
+    "postedAt": "2026-11-08T17:16:16Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-01",
+    "role": "DevOps Engineer",
+    "title": "Senior DevOps Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "terraform",
+      "aws"
+    ],
+    "description": "We are seeking a Senior DevOps Engineer to modernize our cloud infrastructure and build automated delivery pipelines. You will write infrastructure-as-code templates and optimize container orchestration across cloud environments.",
+    "postedAt": "2026-08-19T20:55:55Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-02",
+    "role": "DevOps Engineer",
+    "title": "Site Reliability & Cloud Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "linux",
+      "aws"
+    ],
+    "description": "Ensure enterprise platform availability and rapid disaster recovery as a Site Reliability and Cloud Engineer. You will monitor production telemetry, establish service level objectives, and troubleshoot server anomalies.",
+    "postedAt": "2026-08-27T08:35:35Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-03",
+    "role": "DevOps Engineer",
+    "title": "Cloud Infrastructure Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "terraform",
+      "google cloud"
+    ],
+    "description": "Join our platform operations squad to design and deploy scalable Google Cloud environments using declarative tools. You will implement robust security controls and streamline infrastructure provisioning across environments.",
+    "postedAt": "2026-09-03T20:15:15Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-04",
+    "role": "DevOps Engineer",
+    "title": "Kubernetes Platform Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "microservices",
+      "linux"
+    ],
+    "description": "Take ownership of our production container clusters and developer tooling as a Kubernetes Platform Engineer. You will optimize service meshes, configure cluster autoscaling, and enforce namespace isolation.",
+    "postedAt": "2026-09-11T07:54:54Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-05",
+    "role": "DevOps Engineer",
+    "title": "Junior DevOps Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "git",
+      "linux"
+    ],
+    "description": "Launch your cloud engineering journey by assisting with build automation and server provisioning tasks. You will work under senior mentorship to improve continuous integration workflows and write shell automation scripts.",
+    "postedAt": "2026-09-18T19:34:34Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-06",
+    "role": "DevOps Engineer",
+    "title": "DevOps Automation Specialist",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "ansible",
+      "linux"
+    ],
+    "description": "Automate server configuration and system patch management across hybrid environments as an Automation Specialist. You will maintain Ansible playbooks and standardize system configurations across server fleets.",
+    "postedAt": "2026-09-26T07:14:14Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-07",
+    "role": "DevOps Engineer",
+    "title": "Lead Cloud Operations Architect",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "terraform",
+      "aws",
+      "cloud computing"
+    ],
+    "description": "Lead our cloud architecture strategy and champion DevOps best practices across multi-disciplinary engineering squads. You will evaluate new platform tooling and ensure infrastructure resilience during seasonal traffic spikes.",
+    "postedAt": "2026-10-03T18:53:53Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-08",
+    "role": "DevOps Engineer",
+    "title": "Azure DevOps Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "azure",
+      "terraform"
+    ],
+    "description": "We are looking for a dedicated Azure DevOps Engineer to manage our enterprise Microsoft cloud ecosystem. You will implement automated release gates, configure virtual networks, and maintain infrastructure deployments.",
+    "postedAt": "2026-10-11T06:33:33Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-09",
+    "role": "DevOps Engineer",
+    "title": "CI/CD Pipeline Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "git",
+      "python"
+    ],
+    "description": "Accelerate software delivery velocity by maintaining lightning-fast, dependable build and test automation pipelines. You will eliminate pipeline flakiness and empower product teams to release features multiple times daily.",
+    "postedAt": "2026-10-18T18:13:13Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-10",
+    "role": "DevOps Engineer",
+    "title": "Systems Infrastructure Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "go",
+      "linux"
+    ],
+    "description": "Develop internal platform tools and optimize low-level operating system performance for high-throughput services. You will build custom daemon utilities and maintain Linux kernel configurations for latency-sensitive applications.",
+    "postedAt": "2026-10-26T05:52:52Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-11",
+    "role": "DevOps Engineer",
+    "title": "Mid-Level DevOps Engineer",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "terraform",
+      "ansible"
+    ],
+    "description": "Collaborate closely with product engineering teams to streamline deployment pipelines and enhance observability. You will assist in cloud migration tasks and resolve build failures promptly.",
+    "postedAt": "2026-11-02T17:32:32Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-devops-engineer-12",
+    "role": "DevOps Engineer",
+    "title": "Principal Infrastructure Architect",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "cloud computing",
+      "microservices"
+    ],
+    "description": "Set the strategic vision for global cloud topology and platform reliability across our multinational enterprise. You will guide technical investments, oversee major migrations, and enforce zero-downtime deployment policies.",
+    "postedAt": "2026-11-10T05:12:12Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-01",
+    "role": "Security Analyst",
+    "title": "Senior Security Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "penetration testing",
+      "network security"
+    ],
+    "description": "We are looking for a Senior Security Analyst to safeguard our corporate infrastructure and digital assets from emerging cyber threats. You will conduct proactive penetration tests and lead incident response investigations across global networks.",
+    "postedAt": "2026-08-21T08:51:51Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-02",
+    "role": "Security Analyst",
+    "title": "SOC Incident Response Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "network security",
+      "linux"
+    ],
+    "description": "Protect critical enterprise networks by detecting and neutralizing real-time security breaches in our operations center. You will analyze intrusion logs, triage suspicious alerts, and coordinate containment procedures.",
+    "postedAt": "2026-08-28T20:31:31Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-03",
+    "role": "Security Analyst",
+    "title": "Application Security Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "application security",
+      "python"
+    ],
+    "description": "Join our security engineering team to identify code-level vulnerabilities and secure web application architectures. You will perform static source code reviews and assist software developers in implementing safe authentication patterns.",
+    "postedAt": "2026-09-05T08:11:11Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-04",
+    "role": "Security Analyst",
+    "title": "Cloud Security Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "cloud security",
+      "compliance"
+    ],
+    "description": "Ensure robust compliance postures and baseline security hardening across all our multi-cloud deployments. You will configure automated configuration auditing and remediate cloud security posture drift.",
+    "postedAt": "2026-09-12T19:50:50Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-05",
+    "role": "Security Analyst",
+    "title": "Junior Cybersecurity Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "network security",
+      "compliance"
+    ],
+    "description": "Begin your defensive security career by monitoring system event logs and executing routine vulnerability scans. You will document discovered weaknesses and verify that required security patches are applied across assets.",
+    "postedAt": "2026-09-20T07:30:30Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-06",
+    "role": "Security Analyst",
+    "title": "Identity and Access Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "identity and access management",
+      "zero trust"
+    ],
+    "description": "Design and implement modern authentication policies and role-based access controls across our enterprise workforce. You will enforce least-privilege principles and deploy multi-factor authorization safeguards under a zero trust framework.",
+    "postedAt": "2026-09-27T19:10:10Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-07",
+    "role": "Security Analyst",
+    "title": "Lead Cybersecurity Investigator",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "penetration testing",
+      "cryptography"
+    ],
+    "description": "Direct digital forensics operations and coordinate cross-departmental containment strategies during major security incidents. You will produce post-incident executive summaries and implement corrective architectural controls.",
+    "postedAt": "2026-10-05T06:49:49Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-08",
+    "role": "Security Analyst",
+    "title": "Threat Intelligence Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "network security",
+      "python"
+    ],
+    "description": "Track global adversary tactics and synthesize cyber threat intelligence into actionable defensive indicators. You will automate threat intelligence feeds and brief leadership on active zero-day attack campaigns.",
+    "postedAt": "2026-10-12T18:29:29Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-09",
+    "role": "Security Analyst",
+    "title": "Governance, Risk, and Compliance Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "compliance",
+      "zero trust"
+    ],
+    "description": "Evaluate internal security procedures against strict industry regulations and international data protection standards. You will manage annual compliance audits and coordinate corrective actions with legal stakeholders.",
+    "postedAt": "2026-10-20T06:09:09Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-10",
+    "role": "Security Analyst",
+    "title": "Network Security Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "network security",
+      "zero trust"
+    ],
+    "description": "Maintain defensive network perimeters and monitor encrypted communication corridors across enterprise data centers. You will configure firewall rule sets and detect abnormal traffic anomalies with deep packet inspection.",
+    "postedAt": "2026-10-27T17:48:48Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-11",
+    "role": "Security Analyst",
+    "title": "Mid-Level Vulnerability Analyst",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "application security",
+      "penetration testing"
+    ],
+    "description": "Perform regular vulnerability assessments and prioritize remediation schedules for engineering product teams. You will validate resolved security flaws and verify compliance with internal threat modeling guidelines.",
+    "postedAt": "2026-11-04T05:28:28Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-security-analyst-12",
+    "role": "Security Analyst",
+    "title": "Principal Cybersecurity Architect",
+    "skills": [
+      "cybersecurity",
+      "information security",
+      "vulnerability assessment",
+      "incident response",
+      "zero trust",
+      "cryptography"
+    ],
+    "description": "Define the corporate cybersecurity roadmap and establish zero trust architecture standards across all business units. You will advise executive leadership on cyber risk management and oversee mission-critical cryptography implementations.",
+    "postedAt": "2026-11-11T17:08:08Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-01",
+    "role": "Product Manager",
+    "title": "Senior Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "feature prioritization",
+      "user stories"
+    ],
+    "description": "We are seeking a Senior Product Manager to drive the evolution and commercial success of our flagship web platform. You will prioritize product backlogs and translate business goals into actionable development requirements.",
+    "postedAt": "2026-08-22T20:47:47Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-02",
+    "role": "Product Manager",
+    "title": "Technical Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "agile methodologies",
+      "cross-functional collaboration"
+    ],
+    "description": "Bridge engineering capabilities and business vision as a Technical Product Manager on our platform infrastructure squad. You will lead technical discovery discussions and facilitate sprint planning sessions across distributed teams.",
+    "postedAt": "2026-08-30T08:27:27Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-03",
+    "role": "Product Manager",
+    "title": "Growth Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "product analytics",
+      "a/b testing"
+    ],
+    "description": "Lead user acquisition and onboarding experiments to optimize conversion funnels as our dedicated Growth Product Manager. You will design controlled split tests and analyze behavioral analytics to uncover growth opportunities.",
+    "postedAt": "2026-09-06T20:07:07Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-04",
+    "role": "Product Manager",
+    "title": "Lead Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "strategic planning",
+      "presentation skills"
+    ],
+    "description": "Mentor product managers across squads while defining high-level strategic milestones for our enterprise software offerings. You will present roadmap progress to executive leaders and align product direction with corporate objectives.",
+    "postedAt": "2026-09-14T07:46:46Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-05",
+    "role": "Product Manager",
+    "title": "Associate Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "user stories",
+      "scrum"
+    ],
+    "description": "Launch your product leadership career by writing detailed user stories and managing day-to-day agile backlog grooming. You will partner with designers and engineers to ensure smooth feature delivery cycles.",
+    "postedAt": "2026-09-21T19:26:26Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-06",
+    "role": "Product Manager",
+    "title": "Data-Driven Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "product analytics",
+      "feature prioritization"
+    ],
+    "description": "Harness quantitative user data and engagement metrics to guide strategic investment decisions across our web solutions. You will define core success metrics and evaluate post-launch feature adoption.",
+    "postedAt": "2026-09-29T07:06:06Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-07",
+    "role": "Product Manager",
+    "title": "Enterprise Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "cross-functional collaboration",
+      "strategic planning"
+    ],
+    "description": "Manage enterprise client workflows and customer feedback loops to deliver high-value business application features. You will balance conflicting requirements from large accounts and coordinate complex multi-team releases.",
+    "postedAt": "2026-10-06T18:45:45Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-08",
+    "role": "Product Manager",
+    "title": "Market Research Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "market research",
+      "competitive analysis"
+    ],
+    "description": "Analyze industry trends and conduct competitor benchmarking to uncover underserved market opportunities for our business. You will conduct user interviews and formulate market entry proposals for executive consideration.",
+    "postedAt": "2026-10-14T06:25:25Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-09",
+    "role": "Product Manager",
+    "title": "Agile Product Owner",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "agile methodologies",
+      "scrum",
+      "kanban"
+    ],
+    "description": "Drive delivery velocity and product quality as an Agile Product Owner embedded directly within software development teams. You will maintain refined sprint backlogs and clarify acceptance criteria for engineering squads.",
+    "postedAt": "2026-10-21T18:05:05Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-10",
+    "role": "Product Manager",
+    "title": "Mobile Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "feature prioritization",
+      "user stories"
+    ],
+    "description": "Oversee the end-to-end user journey across our iOS and Android mobile product ecosystems. You will define mobile feature specifications and coordinate regular store release deployments with mobile developers.",
+    "postedAt": "2026-10-29T05:44:44Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-11",
+    "role": "Product Manager",
+    "title": "Mid-Level Product Manager",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "a/b testing",
+      "cross-functional collaboration"
+    ],
+    "description": "Take ownership of core product modules and collaborate with design and engineering peers to ship impactful updates. You will gather customer qualitative feedback and measure user retention trends.",
+    "postedAt": "2026-11-05T17:24:24Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-product-manager-12",
+    "role": "Product Manager",
+    "title": "Principal Product Director",
+    "skills": [
+      "product management",
+      "product roadmap",
+      "product strategy",
+      "stakeholder management",
+      "strategic planning",
+      "competitive analysis"
+    ],
+    "description": "Shape multi-year product portfolio roadmaps and direct strategic investments across multiple business divisions. You will represent product leadership in board presentations and negotiate key technology partnerships.",
+    "postedAt": "2026-11-13T05:04:04Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-01",
+    "role": "UX Designer",
+    "title": "Senior UX Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "ui design",
+      "wireframing"
+    ],
+    "description": "We are seeking a Senior UX Designer to craft intuitive, human-centered digital experiences for our complex software platform. You will translate qualitative user insights into polished wireframes and testable interactive prototypes.",
+    "postedAt": "2026-08-24T08:43:43Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-02",
+    "role": "UX Designer",
+    "title": "Design Systems UX Lead",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "design systems",
+      "ui design"
+    ],
+    "description": "Lead the creation and cross-platform governance of our comprehensive design system and reusable component tokens. You will collaborate with frontend developers to ensure design fidelity and visual consistency across all interfaces.",
+    "postedAt": "2026-08-31T20:23:23Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-03",
+    "role": "UX Designer",
+    "title": "Product UX Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "usability testing",
+      "interaction design"
+    ],
+    "description": "Join our core product team to design streamlined user workflows that solve genuine customer pain points. You will conduct frequent usability evaluations and iterate on interactive patterns based on participant feedback.",
+    "postedAt": "2026-09-08T08:03:03Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-04",
+    "role": "UX Designer",
+    "title": "UX Researcher & Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "journey mapping",
+      "usability testing"
+    ],
+    "description": "Deepen our understanding of customer motivations by planning and executing generative user research studies. You will map comprehensive customer journey maps and translate findings into high-impact product concepts.",
+    "postedAt": "2026-09-15T19:42:42Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-05",
+    "role": "UX Designer",
+    "title": "Junior UX Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "wireframing",
+      "ui design"
+    ],
+    "description": "Kickstart your design career by supporting senior designers with asset preparation, wireframe iterations, and prototype updates. You will learn modern interface design methodologies and participate in weekly design critique sessions.",
+    "postedAt": "2026-09-23T07:22:22Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-06",
+    "role": "UX Designer",
+    "title": "Interaction UX Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "interaction design",
+      "information architecture"
+    ],
+    "description": "Focus on micro-interactions and transitions to create delightful, responsive web and mobile software interfaces. You will build high-fidelity interactive models and define motion guidelines for development teams.",
+    "postedAt": "2026-09-30T19:02:02Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-07",
+    "role": "UX Designer",
+    "title": "Lead UX Architect",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "information architecture",
+      "journey mapping"
+    ],
+    "description": "Lead the structural organization and content taxonomy across our extensive suite of cloud applications. You will mentor product designers and establish foundational information architecture models for complex workflows.",
+    "postedAt": "2026-10-08T06:41:41Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-08",
+    "role": "UX Designer",
+    "title": "Usability UX Specialist",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "usability testing",
+      "user experience"
+    ],
+    "description": "Measure and optimize product usability by organizing structured benchmark testing sessions with target personas. You will pinpoint user friction points and recommend concrete interface adjustments to product teams.",
+    "postedAt": "2026-10-15T18:21:21Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-09",
+    "role": "UX Designer",
+    "title": "Enterprise UX Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "cross-functional collaboration",
+      "wireframing"
+    ],
+    "description": "Simplify dense enterprise data displays and complex administration panels into frictionless user experiences. You will partner closely with engineering squads and product managers throughout agile sprints.",
+    "postedAt": "2026-10-23T06:01:01Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-10",
+    "role": "UX Designer",
+    "title": "Mobile UX Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "ui design",
+      "usability testing"
+    ],
+    "description": "Craft seamless, gesture-driven experiences specifically optimized for mobile tablet and smartphone interfaces. You will prototype responsive layouts and validate touch target accessibility across screen sizes.",
+    "postedAt": "2026-10-30T17:40:40Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-11",
+    "role": "UX Designer",
+    "title": "Mid-Level UX Designer",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "wireframing",
+      "design systems"
+    ],
+    "description": "Take ownership of feature design workflows from initial discovery sketches to final developer handoff assets. You will participate in sprint design reviews and adhere strictly to our design system guidelines.",
+    "postedAt": "2026-11-07T05:20:20Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ux-designer-12",
+    "role": "UX Designer",
+    "title": "Principal UX Director",
+    "skills": [
+      "ux design",
+      "user research",
+      "prototyping",
+      "figma",
+      "user experience",
+      "cross-functional collaboration"
+    ],
+    "description": "Define the overarching user experience philosophy and creative vision across all customer-facing software products. You will advocate for user empathy at executive levels and build a world-class design culture.",
+    "postedAt": "2026-11-14T17:00:00Z",
+    "source": "synthetic"
+  }
+]

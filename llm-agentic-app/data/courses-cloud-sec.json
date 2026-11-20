@@ -1,0 +1,799 @@
+[
+  {
+    "id": "cloud-linux-administration-basics",
+    "title": "Linux System Administration Basics",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Linux%20System%20Administration%20Basics",
+    "skills": [
+      "linux"
+    ],
+    "level": "beginner",
+    "durationHrs": 15,
+    "prerequisites": [],
+    "description": "Learn user management, file permissions, shell navigation, and service configuration in Linux environments. Build confidence administering standalone Linux servers for developer workflows."
+  },
+  {
+    "id": "cloud-networking-fundamentals",
+    "title": "Computer Networking and TCP/IP Fundamentals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Computer%20Networking%20and%20TCP/IP%20Fundamentals",
+    "skills": [
+      "network security",
+      "cloud computing"
+    ],
+    "level": "beginner",
+    "durationHrs": 18,
+    "prerequisites": [],
+    "description": "Explore the OSI model, TCP/IP protocols, DNS resolution, and subnetting essentials. Understand how packets traverse modern local networks and the public internet."
+  },
+  {
+    "id": "cloud-docker-container-foundations",
+    "title": "Docker and Containerization Foundations",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Docker%20and%20Containerization%20Foundations",
+    "skills": [
+      "docker",
+      "devops"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Understand container virtualization concepts and run lightweight isolated application processes with Docker. Build custom Dockerfiles, manage image tags, and run containers locally."
+  },
+  {
+    "id": "cloud-aws-cloud-practitioner",
+    "title": "AWS Cloud Practitioner Essentials",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=AWS%20Cloud%20Practitioner%20Essentials",
+    "skills": [
+      "aws",
+      "cloud computing"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Understand core Amazon Web Services cloud infrastructure including EC2 compute, S3 storage, and VPC networking. Learn cloud pricing models, billing dashboards, and basic shared responsibility concepts."
+  },
+  {
+    "id": "cloud-azure-fundamentals",
+    "title": "Microsoft Azure Fundamentals",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Microsoft%20Azure%20Fundamentals",
+    "skills": [
+      "azure",
+      "cloud computing"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Explore Microsoft Azure global architecture, virtual machines, resource groups, and storage accounts. Learn fundamental cloud service models and security management principles in the Azure portal."
+  },
+  {
+    "id": "cloud-google-cloud-basics",
+    "title": "Google Cloud Platform Fundamentals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Google%20Cloud%20Platform%20Fundamentals",
+    "skills": [
+      "google cloud",
+      "cloud computing"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Get started with Google Cloud Platform services such as Compute Engine, Cloud Storage, and Cloud IAM. Understand Google global infrastructure and fundamental resource organization hierarchy."
+  },
+  {
+    "id": "cloud-cybersecurity-fundamentals",
+    "title": "Cybersecurity Fundamentals and Threat Landscape",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Cybersecurity%20Fundamentals%20and%20Threat%20Landscape",
+    "skills": [
+      "cybersecurity",
+      "information security"
+    ],
+    "level": "beginner",
+    "durationHrs": 16,
+    "prerequisites": [],
+    "description": "Understand common cyber threats, social engineering attacks, malware categories, and defense principles. Learn how organizations establish baseline controls to safeguard vital digital assets."
+  },
+  {
+    "id": "cloud-information-security-principles",
+    "title": "Principles of Information Security and the CIA Triad",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Principles%20of%20Information%20Security%20and%20the%20CIA%20Triad",
+    "skills": [
+      "information security"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Explore the confidentiality, integrity, and availability triad that guides modern security policies. Review risk assessment methodologies, data classification standards, and security compliance baselines."
+  },
+  {
+    "id": "cloud-git-and-ci-cd-basics",
+    "title": "Introduction to Continuous Integration and CI/CD",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Introduction%20to%20Continuous%20Integration%20and%20CI/CD",
+    "skills": [
+      "ci/cd",
+      "devops",
+      "git"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Discover the fundamentals of automated testing, linting, and continuous integration pipelines. Learn how development teams integrate code frequently and catch integration defects early."
+  },
+  {
+    "id": "cloud-cryptography-basics",
+    "title": "Introduction to Applied Cryptography",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Introduction%20to%20Applied%20Cryptography",
+    "skills": [
+      "cryptography",
+      "information security"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Learn symmetric and asymmetric encryption algorithms, hashing functions, and digital signatures. Understand how cryptographic mechanisms protect data at rest and data in transit."
+  },
+  {
+    "id": "cloud-iam-foundations",
+    "title": "Identity and Access Management Fundamentals",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Identity%20and%20Access%20Management%20Fundamentals",
+    "skills": [
+      "identity and access management",
+      "cloud security"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Learn authentication, authorization, role-based access control, and multi-factor authentication concepts. Understand how modern organizations manage digital identities and minimize credential exposure."
+  },
+  {
+    "id": "cloud-vulnerability-assessment-intro",
+    "title": "Introduction to Vulnerability Assessment",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Introduction%20to%20Vulnerability%20Assessment",
+    "skills": [
+      "vulnerability assessment",
+      "cybersecurity"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Identify known software weaknesses and misconfigurations using automated vulnerability scanners. Learn to interpret Common Vulnerabilities and Exposures indices and Common Vulnerability Scoring System ratings."
+  },
+  {
+    "id": "cloud-kubernetes-quickstart",
+    "title": "Kubernetes Quickstart for Beginners",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Kubernetes%20Quickstart%20for%20Beginners",
+    "skills": [
+      "kubernetes",
+      "docker"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Grasp fundamental container orchestration concepts including pods, deployments, replica sets, and services. Learn how Kubernetes automates application scaling, health monitoring, and rollouts."
+  },
+  {
+    "id": "cloud-terraform-basics",
+    "title": "Infrastructure as Code with Terraform Fundamentals",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Infrastructure%20as%20Code%20with%20Terraform%20Fundamentals",
+    "skills": [
+      "terraform",
+      "devops"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Learn declarative infrastructure provisioning using HashiCorp Configuration Language and Terraform CLI. Define basic cloud resources, manage state files, and execute plan and apply workflows."
+  },
+  {
+    "id": "cloud-application-security-fundamentals",
+    "title": "Application Security and Secure Coding Principles",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Application%20Security%20and%20Secure%20Coding%20Principles",
+    "skills": [
+      "application security",
+      "cybersecurity"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Discover common application security flaws such as injection, broken access control, and insecure deserialization. Implement secure software development practices to eliminate vulnerabilities early in the development lifecycle."
+  },
+  {
+    "id": "cloud-ansible-automation-basics",
+    "title": "IT Automation with Ansible for Beginners",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=IT%20Automation%20with%20Ansible%20for%20Beginners",
+    "skills": [
+      "ansible",
+      "devops"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Automate server configuration tasks and software installations using agentless Ansible playbooks. Learn YAML inventory structures, idempotent task execution, and reusable playbook modules."
+  },
+  {
+    "id": "cloud-compliance-security-intro",
+    "title": "Introduction to Security Compliance and Governance",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Introduction%20to%20Security%20Compliance%20and%20Governance",
+    "skills": [
+      "compliance",
+      "information security"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Examine regulatory compliance frameworks such as SOC 2, ISO 27001, HIPAA, and GDPR. Understand how governance policies ensure operational accountability and customer privacy protection."
+  },
+  {
+    "id": "cloud-zero-trust-concepts",
+    "title": "Zero Trust Architecture Concepts",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Zero%20Trust%20Architecture%20Concepts",
+    "skills": [
+      "zero trust",
+      "cybersecurity"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Understand the core philosophy of assuming breach and never trusting any network entity implicitly. Learn how continuous verification, least privilege access, and microsegmentation reinforce enterprise security."
+  },
+  {
+    "id": "cloud-incident-response-basics",
+    "title": "Incident Response and Security Operations Basics",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Incident%20Response%20and%20Security%20Operations%20Basics",
+    "skills": [
+      "incident response",
+      "cybersecurity"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Explore the phases of incident response including preparation, detection, containment, eradication, and post-incident review. Learn how Security Operations Center analysts triage alerts and mitigate active security incidents."
+  },
+  {
+    "id": "cloud-penetration-testing-intro",
+    "title": "Introduction to Ethical Hacking and Penetration Testing",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Introduction%20to%20Ethical%20Hacking%20and%20Penetration%20Testing",
+    "skills": [
+      "penetration testing",
+      "cybersecurity"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Learn ethical hacking methodologies, reconnaissance techniques, and vulnerability scanning procedures. Practice identifying and reporting security weaknesses in controlled lab environments."
+  },
+  {
+    "id": "cloud-intermediate-linux-sysadmin",
+    "title": "Intermediate Linux Administration and Bash Scripting",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Intermediate%20Linux%20Administration%20and%20Bash%20Scripting",
+    "skills": [
+      "linux",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "cloud-linux-administration-basics",
+      "web-linux-command-line"
+    ],
+    "description": "Automate repetitive administrative workflows using robust Bash scripts, cron jobs, and systemd units. Configure storage volumes, logical volume management, and system monitoring daemons on enterprise Linux servers."
+  },
+  {
+    "id": "cloud-aws-solutions-architect",
+    "title": "AWS Solutions Architecture and Scalable Systems",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=AWS%20Solutions%20Architecture%20and%20Scalable%20Systems",
+    "skills": [
+      "aws",
+      "cloud computing",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 30,
+    "prerequisites": [
+      "cloud-aws-cloud-practitioner"
+    ],
+    "description": "Architect highly available, decoupled application tiers utilizing AWS Auto Scaling, Application Load Balancers, and RDS multi-AZ. Implement secure network topologies using private subnets, NAT gateways, and VPC endpoints."
+  },
+  {
+    "id": "cloud-azure-administrator",
+    "title": "Microsoft Azure Administrator and Networking",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Microsoft%20Azure%20Administrator%20and%20Networking",
+    "skills": [
+      "azure",
+      "cloud computing",
+      "network security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 28,
+    "prerequisites": [
+      "cloud-azure-fundamentals",
+      "cloud-networking-fundamentals"
+    ],
+    "description": "Configure virtual networks, network security groups, VPN peering, and DNS zones in Microsoft Azure. Manage hybrid identities with Microsoft Entra ID and monitor resource health with Azure Monitor."
+  },
+  {
+    "id": "cloud-gcp-cloud-engineer",
+    "title": "Google Cloud Associate Cloud Engineer",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Google%20Cloud%20Associate%20Cloud%20Engineer",
+    "skills": [
+      "google cloud",
+      "cloud computing"
+    ],
+    "level": "intermediate",
+    "durationHrs": 26,
+    "prerequisites": [
+      "cloud-google-cloud-basics"
+    ],
+    "description": "Deploy and manage compute workloads on Google Kubernetes Engine, Compute Engine, and Cloud Run. Configure IAM service accounts, Cloud Storage lifecycles, and Cloud Operations logging suites."
+  },
+  {
+    "id": "cloud-intermediate-docker",
+    "title": "Docker in Production: Multi-Stage Builds and Networking",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Docker%20in%20Production%3A%20Multi-Stage%20Builds%20and%20Networking",
+    "skills": [
+      "docker",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "cloud-docker-container-foundations",
+      "web-docker-essentials"
+    ],
+    "description": "Optimize image sizes and build times with multi-stage Dockerfiles and caching layers. Configure bridge and overlay container networks while managing persistent volume drivers securely."
+  },
+  {
+    "id": "cloud-intermediate-kubernetes",
+    "title": "Kubernetes Administration and Application Deployment",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Kubernetes%20Administration%20and%20Application%20Deployment",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 32,
+    "prerequisites": [
+      "cloud-kubernetes-quickstart",
+      "cloud-docker-container-foundations"
+    ],
+    "description": "Configure ingress controllers, persistent volumes, config maps, and secrets in production Kubernetes clusters. Perform zero-downtime rolling updates, configure horizontal pod autoscaling, and implement resource quotas."
+  },
+  {
+    "id": "cloud-advanced-ci-cd-pipelines",
+    "title": "Enterprise CI/CD Pipelines and Release Automation",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Enterprise%20CI/CD%20Pipelines%20and%20Release%20Automation",
+    "skills": [
+      "ci/cd",
+      "devops",
+      "github"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "cloud-git-and-ci-cd-basics",
+      "web-ci-cd-pipelines"
+    ],
+    "description": "Design multi-stage deployment pipelines supporting artifact versioning, automated unit testing, and smoke testing. Implement progressive delivery strategies and automated canary deployments using modern CI tools."
+  },
+  {
+    "id": "cloud-terraform-multi-cloud",
+    "title": "Automating Cloud Infrastructure with Terraform Modules",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Automating%20Cloud%20Infrastructure%20with%20Terraform%20Modules",
+    "skills": [
+      "terraform",
+      "cloud computing",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 24,
+    "prerequisites": [
+      "cloud-terraform-basics",
+      "cloud-aws-cloud-practitioner"
+    ],
+    "description": "Build reusable, versioned Terraform modules to provision reproducible VPCs, compute instances, and database clusters. Manage remote state backends with S3 and DynamoDB state locking to collaborate safely across teams."
+  },
+  {
+    "id": "cloud-ansible-configuration-management",
+    "title": "Configuration Management and Orchestration with Ansible",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Configuration%20Management%20and%20Orchestration%20with%20Ansible",
+    "skills": [
+      "ansible",
+      "linux",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "cloud-ansible-automation-basics",
+      "cloud-linux-administration-basics"
+    ],
+    "description": "Structure enterprise automation codebases using Ansible roles, variables, Jinja2 templates, and Ansible Vault. Harden Linux hosts, enforce compliance standards, and coordinate rolling application updates."
+  },
+  {
+    "id": "cloud-network-security-firewalls",
+    "title": "Network Security, Firewalls, and Traffic Analysis",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Network%20Security%2C%20Firewalls%2C%20and%20Traffic%20Analysis",
+    "skills": [
+      "network security",
+      "cybersecurity"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "cloud-networking-fundamentals",
+      "cloud-cybersecurity-fundamentals"
+    ],
+    "description": "Deploy packet-filtering firewalls, intrusion detection systems, and reverse proxies to inspect perimeter traffic. Analyze network packet captures with Wireshark to diagnose protocol anomalies and detect malicious activity."
+  },
+  {
+    "id": "cloud-cloud-security-iam",
+    "title": "Cloud Security Architecture and IAM Governance",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Cloud%20Security%20Architecture%20and%20IAM%20Governance",
+    "skills": [
+      "cloud security",
+      "identity and access management",
+      "aws"
+    ],
+    "level": "intermediate",
+    "durationHrs": 24,
+    "prerequisites": [
+      "cloud-iam-foundations",
+      "cloud-aws-cloud-practitioner"
+    ],
+    "description": "Enforce least privilege access across cloud environments using granular IAM policies, service control policies, and permission boundaries. Audit credential exposure and detect privilege escalation vectors using cloud auditing tools."
+  },
+  {
+    "id": "cloud-applied-penetration-testing",
+    "title": "Practical Penetration Testing and Exploit Techniques",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Practical%20Penetration%20Testing%20and%20Exploit%20Techniques",
+    "skills": [
+      "penetration testing",
+      "network security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 28,
+    "prerequisites": [
+      "cloud-penetration-testing-intro",
+      "web-penetration-testing-web"
+    ],
+    "description": "Execute external and internal network penetration tests using Metasploit, Nmap, and vulnerability exploitation tools. Document findings clearly in actionable security assessment reports with remediation guidance."
+  },
+  {
+    "id": "cloud-vulnerability-management",
+    "title": "Enterprise Vulnerability Management and Remediation",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Enterprise%20Vulnerability%20Management%20and%20Remediation",
+    "skills": [
+      "vulnerability assessment",
+      "information security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "cloud-vulnerability-assessment-intro"
+    ],
+    "description": "Establish continuous vulnerability scanning cycles and asset discovery across hybrid corporate networks. Prioritize patching schedules based on exploitability indicators, threat intelligence feeds, and asset criticality."
+  },
+  {
+    "id": "cloud-incident-handling-forensics",
+    "title": "Incident Handling and Digital Forensics",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Incident%20Handling%20and%20Digital%20Forensics",
+    "skills": [
+      "incident response",
+      "cybersecurity"
+    ],
+    "level": "intermediate",
+    "durationHrs": 25,
+    "prerequisites": [
+      "cloud-incident-response-basics"
+    ],
+    "description": "Acquire volatile memory captures, examine disk images, and preserve forensic artifacts following security breaches. Construct incident timelines and extract indicators of compromise to remediate compromised infrastructure."
+  },
+  {
+    "id": "cloud-appsec-threat-modeling",
+    "title": "Application Security and Threat Modeling in Practice",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Application%20Security%20and%20Threat%20Modeling%20in%20Practice",
+    "skills": [
+      "application security",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "cloud-application-security-fundamentals"
+    ],
+    "description": "Conduct structured threat modeling exercises using STRIDE to identify security flaws during software design. Integrate Static Application Security Testing and Software Composition Analysis into continuous delivery pipelines."
+  },
+  {
+    "id": "cloud-zero-trust-implementation",
+    "title": "Implementing Zero Trust Network Access",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Implementing%20Zero%20Trust%20Network%20Access",
+    "skills": [
+      "zero trust",
+      "network security",
+      "cloud security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 15,
+    "prerequisites": [
+      "cloud-zero-trust-concepts",
+      "cloud-networking-fundamentals"
+    ],
+    "description": "Replace legacy VPN perimeters with identity-aware proxies and software-defined perimeters. Enforce device posture checks, dynamic access policies, and microsegmentation across microservice communications."
+  },
+  {
+    "id": "cloud-compliance-auditing",
+    "title": "Cloud Compliance and Security Auditing",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Cloud%20Compliance%20and%20Security%20Auditing",
+    "skills": [
+      "compliance",
+      "cloud security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "cloud-compliance-security-intro",
+      "cloud-aws-cloud-practitioner"
+    ],
+    "description": "Automate compliance monitoring across cloud assets using AWS Config rules, Azure Policy, and audit logging. Produce continuous compliance reports for external auditors and ensure adherence to security benchmarks."
+  },
+  {
+    "id": "cloud-applied-cryptography-pki",
+    "title": "Applied Cryptography and Public Key Infrastructure",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Applied%20Cryptography%20and%20Public%20Key%20Infrastructure",
+    "skills": [
+      "cryptography",
+      "information security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "cloud-cryptography-basics"
+    ],
+    "description": "Deploy internal Certificate Authorities, configure TLS certificates, and manage public key infrastructures securely. Learn hardware security modules, automated certificate renewal protocols, and key management service architectures."
+  },
+  {
+    "id": "cloud-devsecops-pipeline-security",
+    "title": "DevSecOps: Integrating Security into CI/CD Pipelines",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=DevSecOps%3A%20Integrating%20Security%20into%20CI/CD%20Pipelines",
+    "skills": [
+      "devops",
+      "ci/cd",
+      "application security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "cloud-git-and-ci-cd-basics",
+      "cloud-application-security-fundamentals"
+    ],
+    "description": "Embed automated container vulnerability scanning, secret detection, and DAST security gates into pull request workflows. Empower engineering teams to identify and remediate security regressions without blocking release velocity."
+  },
+  {
+    "id": "cloud-site-reliability-monitoring",
+    "title": "Cloud Monitoring, Observability, and Site Reliability",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Cloud%20Monitoring%2C%20Observability%2C%20and%20Site%20Reliability",
+    "skills": [
+      "cloud computing",
+      "devops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "cloud-aws-cloud-practitioner",
+      "cloud-linux-administration-basics"
+    ],
+    "description": "Implement comprehensive application observability using metrics, distributed tracing, and centralized log aggregation. Define Service Level Indicators and Service Level Objectives to maintain uptime and minimize mean time to recovery."
+  },
+  {
+    "id": "cloud-advanced-kubernetes-security",
+    "title": "Advanced Kubernetes Security and Hardening",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Advanced%20Kubernetes%20Security%20and%20Hardening",
+    "skills": [
+      "kubernetes",
+      "cloud security",
+      "docker"
+    ],
+    "level": "advanced",
+    "durationHrs": 38,
+    "prerequisites": [
+      "cloud-intermediate-kubernetes",
+      "cloud-devsecops-pipeline-security"
+    ],
+    "description": "Harden Kubernetes control planes and worker nodes using runtime enforcement tools such as Falco and Open Policy Agent. Implement pod security admission controllers, encrypted etcd storage, and mutual TLS service meshes."
+  },
+  {
+    "id": "cloud-enterprise-cloud-security-architecture",
+    "title": "Enterprise Multi-Cloud Security Architecture",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Enterprise%20Multi-Cloud%20Security%20Architecture",
+    "skills": [
+      "cloud security",
+      "aws",
+      "azure"
+    ],
+    "level": "advanced",
+    "durationHrs": 45,
+    "prerequisites": [
+      "cloud-aws-solutions-architect",
+      "cloud-azure-administrator"
+    ],
+    "description": "Design zero-trust multi-cloud landing zones with centralized security logging and automated incident containment. Architect federated identity access, transit gateways, and unified compliance monitoring across AWS and Azure."
+  },
+  {
+    "id": "cloud-advanced-penetration-testing-red-team",
+    "title": "Advanced Penetration Testing and Red Team Operations",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Advanced%20Penetration%20Testing%20and%20Red%20Team%20Operations",
+    "skills": [
+      "penetration testing",
+      "cybersecurity"
+    ],
+    "level": "advanced",
+    "durationHrs": 42,
+    "prerequisites": [
+      "cloud-applied-penetration-testing"
+    ],
+    "description": "Simulate advanced persistent threat adversaries through custom payload generation, evasion techniques, and Active Directory exploitation. Pivot across restricted network enclaves and construct comprehensive adversary emulation reports."
+  },
+  {
+    "id": "cloud-infrastructure-as-code-at-scale",
+    "title": "Scaling Infrastructure as Code with Terraform and Terragrunt",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Scaling%20Infrastructure%20as%20Code%20with%20Terraform%20and%20Terragrunt",
+    "skills": [
+      "terraform",
+      "devops",
+      "cloud computing"
+    ],
+    "level": "advanced",
+    "durationHrs": 36,
+    "prerequisites": [
+      "cloud-terraform-multi-cloud"
+    ],
+    "description": "Manage hundreds of cloud accounts and microservice infrastructure stacks with DRY architecture using Terragrunt. Implement automated testing for Terraform modules using Terratest and enforce policy as code."
+  },
+  {
+    "id": "cloud-cloud-incident-response-threat-hunting",
+    "title": "Cloud Threat Hunting and Automated Incident Response",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Cloud%20Threat%20Hunting%20and%20Automated%20Incident%20Response",
+    "skills": [
+      "incident response",
+      "cloud security",
+      "cybersecurity"
+    ],
+    "level": "advanced",
+    "durationHrs": 35,
+    "prerequisites": [
+      "cloud-incident-handling-forensics",
+      "cloud-cloud-security-iam"
+    ],
+    "description": "Hunt for subtle adversary activity across cloud audit logs, VPC flow records, and serverless executions. Deploy automated containment playbooks using cloud event triggers to isolate compromised instances within seconds."
+  },
+  {
+    "id": "cloud-site-reliability-engineering-scale",
+    "title": "Site Reliability Engineering for Distributed Systems at Scale",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Site%20Reliability%20Engineering%20for%20Distributed%20Systems%20at%20Scale",
+    "skills": [
+      "devops",
+      "cloud computing",
+      "linux"
+    ],
+    "level": "advanced",
+    "durationHrs": 40,
+    "prerequisites": [
+      "cloud-site-reliability-monitoring",
+      "cloud-intermediate-linux-sysadmin"
+    ],
+    "description": "Architect resilient distributed services capable of self-healing, graceful degradation, and fast failover under peak traffic. Implement chaos engineering experiments, error budget policies, and post-mortem review cultures."
+  },
+  {
+    "id": "cloud-advanced-cryptography-post-quantum",
+    "title": "Advanced Cryptographic Protocols and Post-Quantum Security",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Advanced%20Cryptographic%20Protocols%20and%20Post-Quantum%20Security",
+    "skills": [
+      "cryptography",
+      "information security"
+    ],
+    "level": "advanced",
+    "durationHrs": 34,
+    "prerequisites": [
+      "cloud-applied-cryptography-pki"
+    ],
+    "description": "Examine zero-knowledge proofs, homomorphic encryption, and post-quantum cryptographic standards approved by NIST. Evaluate lattice-based encryption algorithms and prepare enterprise data security strategies for future quantum computing threats."
+  },
+  {
+    "id": "cloud-advanced-devsecops-governance",
+    "title": "Enterprise DevSecOps Governance and Policy as Code",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Enterprise%20DevSecOps%20Governance%20and%20Policy%20as%20Code",
+    "skills": [
+      "devops",
+      "ci/cd",
+      "compliance"
+    ],
+    "level": "advanced",
+    "durationHrs": 32,
+    "prerequisites": [
+      "cloud-devsecops-pipeline-security",
+      "cloud-compliance-auditing"
+    ],
+    "description": "Enforce organizational compliance rules before deployment using Policy as Code frameworks like OPA and Kyverno. Audit software supply chain security with signed container images and Software Bills of Materials."
+  },
+  {
+    "id": "cloud-zero-trust-cloud-architecture",
+    "title": "Architecting End-to-End Zero Trust in the Cloud",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Architecting%20End-to-End%20Zero%20Trust%20in%20the%20Cloud",
+    "skills": [
+      "zero trust",
+      "cloud security",
+      "network security"
+    ],
+    "level": "advanced",
+    "durationHrs": 38,
+    "prerequisites": [
+      "cloud-zero-trust-implementation",
+      "cloud-cloud-security-iam"
+    ],
+    "description": "Design unified zero-trust architectures spanning cloud compute, container workloads, SaaS platforms, and remote workforces. Orchestrate context-aware access engines, continuous session risk scoring, and automated access revocation."
+  },
+  {
+    "id": "cloud-cloud-native-service-mesh",
+    "title": "Cloud-Native Service Mesh and Microservices Networking",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Cloud-Native%20Service%20Mesh%20and%20Microservices%20Networking",
+    "skills": [
+      "kubernetes",
+      "network security",
+      "devops"
+    ],
+    "level": "advanced",
+    "durationHrs": 36,
+    "prerequisites": [
+      "cloud-intermediate-kubernetes",
+      "cloud-network-security-firewalls"
+    ],
+    "description": "Deploy and manage enterprise service meshes using Istio and Envoy proxies within multi-cluster Kubernetes environments. Implement mutual TLS, fine-grained traffic routing, fault injection, and distributed telemetry collection."
+  }
+]

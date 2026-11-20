@@ -1,0 +1,17 @@
+[
+  {
+    "name": "switcher",
+    "goalText": "Retail associate moving to Data Analyst. I have 2 years of retail customer service and problem-solving experience, and I want to transition into an entry-level Data Analyst role. I want to learn SQL, Python, data analysis, and Tableau for data visualization. I can dedicate 8 hours per week to studying.",
+    "hoursPerWeek": 8
+  },
+  {
+    "name": "junior",
+    "goalText": "Junior JavaScript developer aiming for Full-Stack or backend. I have 1 year of experience building frontend web interfaces with JavaScript, HTML, CSS, and React. I want to transition into a Full-Stack or Backend Developer role by learning Node.js, Express.js, PostgreSQL, Docker, and REST API development. I can dedicate 10 hours per week.",
+    "hoursPerWeek": 10
+  },
+  {
+    "name": "analyst",
+    "goalText": "Data analyst moving to Machine Learning Engineer. I have 3 years of experience analyzing data with SQL, Python, and Tableau. I want to transition into a Machine Learning Engineer role by mastering machine learning algorithms, deep learning, scikit-learn, and PyTorch. I can dedicate 6 hours per week.",
+    "hoursPerWeek": 6
+  }
+]

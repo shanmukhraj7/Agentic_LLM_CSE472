@@ -1,0 +1,979 @@
+[
+  {
+    "id": "job-frontend-developer-01",
+    "role": "Frontend Developer",
+    "title": "Senior Frontend Developer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "tailwind css",
+      "next.js"
+    ],
+    "description": "We are seeking a Senior Frontend Developer to lead the architecture and development of our customer dashboard. You will collaborate with designers and product managers to create performant, accessible web interfaces.",
+    "postedAt": "2026-08-18T09:00:00Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-02",
+    "role": "Frontend Developer",
+    "title": "React UI Engineer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "html",
+      "design systems"
+    ],
+    "description": "Join our core UI engineering team to build scalable component libraries and responsive web applications. You will turn complex design specifications into elegant, reusable React components.",
+    "postedAt": "2026-08-25T20:39:39Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-03",
+    "role": "Frontend Developer",
+    "title": "Frontend Web Developer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "html",
+      "git"
+    ],
+    "description": "Our team is looking for a Frontend Web Developer to enhance user-facing features on our primary platform. You will write clean, well-tested code and optimize browser rendering performance.",
+    "postedAt": "2026-09-02T08:19:19Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-04",
+    "role": "Frontend Developer",
+    "title": "Lead Frontend Engineer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "next.js",
+      "graphql",
+      "rest api"
+    ],
+    "description": "We need an experienced Lead Frontend Engineer to guide technical direction and mentor junior team members. You will oversee client-side state management, build pipelines, and end-to-end frontend performance.",
+    "postedAt": "2026-09-09T19:58:58Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-05",
+    "role": "Frontend Developer",
+    "title": "Junior Frontend Developer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "html",
+      "tailwind css"
+    ],
+    "description": "Kickstart your career as a Junior Frontend Developer contributing to our modern web application codebase. You will work alongside senior engineers to implement interactive pages and fix UI defects.",
+    "postedAt": "2026-09-17T07:38:38Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-06",
+    "role": "Frontend Developer",
+    "title": "Design Systems Frontend Engineer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "figma",
+      "ui design",
+      "design systems"
+    ],
+    "description": "We are hiring a Frontend Engineer dedicated to creating and maintaining our cross-product design system. You will bridge the gap between design and engineering to ensure consistent brand identity.",
+    "postedAt": "2026-09-24T19:18:18Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-07",
+    "role": "Frontend Developer",
+    "title": "Staff Frontend Architect",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "next.js",
+      "rest api"
+    ],
+    "description": "Bring your deep frontend expertise to set architectural standards across all our web properties. You will drive frontend scalability initiatives and establish company-wide best practices.",
+    "postedAt": "2026-10-02T06:57:57Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-08",
+    "role": "Frontend Developer",
+    "title": "Vue and React Frontend Developer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "vue.js",
+      "git"
+    ],
+    "description": "Our engineering organization is seeking a versatile frontend developer comfortable working across multiple framework codebases. You will support legacy web components while building new features in our next-generation interface.",
+    "postedAt": "2026-10-09T18:37:37Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-09",
+    "role": "Frontend Developer",
+    "title": "Angular to React Migration Developer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "angular",
+      "rest api"
+    ],
+    "description": "Help drive our enterprise modernization initiative as we transition legacy web portals to modern web technologies. You will design component adapters and ensure zero downtime during feature migrations.",
+    "postedAt": "2026-10-17T06:17:17Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-10",
+    "role": "Frontend Developer",
+    "title": "Frontend Applications Engineer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "tailwind css",
+      "figma",
+      "ux design"
+    ],
+    "description": "We are looking for a creative Frontend Applications Engineer passionate about user experience and visual polish. You will partner with product design teams to rapid-prototype and ship high-impact features.",
+    "postedAt": "2026-10-24T17:56:56Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-11",
+    "role": "Frontend Developer",
+    "title": "Mid-Level Frontend Developer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "next.js",
+      "tailwind css"
+    ],
+    "description": "Take ownership of client-side web features as a Mid-Level Frontend Developer in our growing product squad. You will participate in agile sprint ceremonies, code reviews, and performance profiling.",
+    "postedAt": "2026-11-01T05:36:36Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-frontend-developer-12",
+    "role": "Frontend Developer",
+    "title": "Frontend Performance Engineer",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript",
+      "css",
+      "html",
+      "graphql"
+    ],
+    "description": "Focus on web vitals and client-side optimization as our dedicated Frontend Performance Engineer. You will measure load times, reduce bundle overhead, and streamline data fetching workflows.",
+    "postedAt": "2026-11-08T17:16:16Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-01",
+    "role": "Backend Developer",
+    "title": "Senior Backend Developer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "python",
+      "fastapi"
+    ],
+    "description": "We are seeking a Senior Backend Developer to architect resilient web services and high-throughput data processing pipelines. You will design database schemas and implement robust API endpoints for our core platform.",
+    "postedAt": "2026-08-19T20:55:55Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-02",
+    "role": "Backend Developer",
+    "title": "Distributed Systems Backend Engineer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "microservices",
+      "apache kafka",
+      "kubernetes"
+    ],
+    "description": "Join our infrastructure engineering group to scale distributed messaging and transaction processing systems. You will decouple monolith features into resilient microservices running in containerized environments.",
+    "postedAt": "2026-08-27T08:35:35Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-03",
+    "role": "Backend Developer",
+    "title": "Python Backend Developer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "python",
+      "django"
+    ],
+    "description": "Our growth-stage team is hiring a Python Backend Developer to build scalable enterprise APIs and service integrations. You will write maintainable server-side logic and optimize complex SQL queries.",
+    "postedAt": "2026-09-03T20:15:15Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-04",
+    "role": "Backend Developer",
+    "title": "Node.js Backend Engineer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "node.js",
+      "express.js"
+    ],
+    "description": "We are looking for a Node.js Backend Engineer to deliver asynchronous services powering real-time web applications. You will create secure REST APIs and manage relational database migrations.",
+    "postedAt": "2026-09-11T07:54:54Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-05",
+    "role": "Backend Developer",
+    "title": "Cloud Backend Developer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "aws",
+      "ci/cd",
+      "linux"
+    ],
+    "description": "Take responsibility for cloud service architecture and automated deployment pipelines as a Cloud Backend Developer. You will ensure service high availability and monitor application health across staging and production.",
+    "postedAt": "2026-09-18T19:34:34Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-06",
+    "role": "Backend Developer",
+    "title": "Junior Backend Developer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "python",
+      "git"
+    ],
+    "description": "Start your software engineering journey as a Junior Backend Developer on our platform integration team. You will write unit tests, fix server-side bugs, and collaborate with senior engineers on schema design.",
+    "postedAt": "2026-09-26T07:14:14Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-07",
+    "role": "Backend Developer",
+    "title": "Lead Backend Architect",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "microservices",
+      "kubernetes",
+      "aws"
+    ],
+    "description": "Lead technical decisions and database strategy for our mission-critical backend microservices ecosystem. You will mentor engineering squads and establish architectural standards for fault tolerance and security.",
+    "postedAt": "2026-10-03T18:53:53Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-08",
+    "role": "Backend Developer",
+    "title": "Go Backend Engineer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "go",
+      "linux"
+    ],
+    "description": "Our infrastructure team is looking for a Go Backend Engineer to build concurrent, low-latency microservices. You will develop reliable gRPC and REST endpoints with minimal memory footprints.",
+    "postedAt": "2026-10-11T06:33:33Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-09",
+    "role": "Backend Developer",
+    "title": "Java Backend Developer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "java",
+      "spring boot"
+    ],
+    "description": "We are seeking a Java Backend Developer to maintain and modernize our enterprise transactional backends. You will implement domain services using Spring Boot and ensure data consistency across relational databases.",
+    "postedAt": "2026-10-18T18:13:13Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-10",
+    "role": "Backend Developer",
+    "title": "Backend API Engineer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "graphql",
+      "node.js"
+    ],
+    "description": "Empower web and mobile product teams by building flexible, well-documented API surfaces. You will design GraphQL schemas and RESTful routes backed by optimized database queries.",
+    "postedAt": "2026-10-26T05:52:52Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-11",
+    "role": "Backend Developer",
+    "title": "Mid-Level Backend Developer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "python",
+      "fastapi",
+      "ci/cd"
+    ],
+    "description": "Contribute to core feature development and internal tool automation as a Mid-Level Backend Developer. You will build test suites, monitor background workers, and assist in database maintenance.",
+    "postedAt": "2026-11-02T17:32:32Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-backend-developer-12",
+    "role": "Backend Developer",
+    "title": "Staff Backend Engineer",
+    "skills": [
+      "postgresql",
+      "docker",
+      "rest api",
+      "sql",
+      "apache kafka",
+      "microservices"
+    ],
+    "description": "Guide multi-team backend initiatives to scale our event-driven processing backbone across global regions. You will evaluate new data technologies and ensure platform security compliance across all services.",
+    "postedAt": "2026-11-10T05:12:12Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-01",
+    "role": "Full-Stack Developer",
+    "title": "Senior Full-Stack Developer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "next.js",
+      "postgresql"
+    ],
+    "description": "We need a Senior Full-Stack Developer to build complete end-to-end features for our software-as-a-service application. You will develop slick React interfaces and reliable server-side endpoints backed by PostgreSQL.",
+    "postedAt": "2026-08-21T08:51:51Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-02",
+    "role": "Full-Stack Developer",
+    "title": "Full-Stack Web Engineer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "tailwind css",
+      "rest api",
+      "sql"
+    ],
+    "description": "Join our agile product squad to deliver responsive web applications and performant server routes. You will collaborate with product designers on UI components while maintaining clean backend API contracts.",
+    "postedAt": "2026-08-28T20:31:31Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-03",
+    "role": "Full-Stack Developer",
+    "title": "Full-Stack Cloud Developer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "aws",
+      "docker"
+    ],
+    "description": "Build modern web services from user interface down to cloud infrastructure deployment as a Full-Stack Cloud Developer. You will implement front-end interactions and deploy containerized services to Amazon Web Services.",
+    "postedAt": "2026-09-05T08:11:11Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-04",
+    "role": "Full-Stack Developer",
+    "title": "Lead Full-Stack Engineer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "graphql",
+      "postgresql",
+      "ci/cd"
+    ],
+    "description": "Provide technical leadership across frontend and backend domains for our customer-facing web platform. You will steer technical roadmaps, enforce code quality standards, and coordinate cross-functional releases.",
+    "postedAt": "2026-09-12T19:50:50Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-05",
+    "role": "Full-Stack Developer",
+    "title": "Junior Full-Stack Developer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "git"
+    ],
+    "description": "Begin your engineering career as a Junior Full-Stack Developer creating interactive features and fixing user-reported bugs. You will learn modern development workflows under the direct mentorship of senior developers.",
+    "postedAt": "2026-09-20T07:30:30Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-06",
+    "role": "Full-Stack Developer",
+    "title": "Full-Stack Product Engineer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "next.js",
+      "tailwind css"
+    ],
+    "description": "We are seeking a product-minded Full-Stack Developer to iterate rapidly on new user growth experiments. You will build polished UI workflows and support them with robust backend logic.",
+    "postedAt": "2026-09-27T19:10:10Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-07",
+    "role": "Full-Stack Developer",
+    "title": "Staff Full-Stack Developer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "microservices",
+      "docker",
+      "sql"
+    ],
+    "description": "Drive foundational full-stack architectural improvements across multiple product squads within our engineering organization. You will resolve systemic performance bottlenecks and guide best practices for end-to-end testing.",
+    "postedAt": "2026-10-05T06:49:49Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-08",
+    "role": "Full-Stack Developer",
+    "title": "Full-Stack Applications Developer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "express.js",
+      "mongodb"
+    ],
+    "description": "Create flexible internal tooling and customer web dashboards as a Full-Stack Applications Developer. You will manage document database schemas, craft Express middleware, and build reusable React views.",
+    "postedAt": "2026-10-12T18:29:29Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-09",
+    "role": "Full-Stack Developer",
+    "title": "Full-Stack API & UI Engineer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "rest api",
+      "postgresql"
+    ],
+    "description": "Take end-to-end ownership of new feature verticals spanning relational database models to frontend pages. You will author clean RESTful services and build intuitive user workflows in TypeScript.",
+    "postedAt": "2026-10-20T06:09:09Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-10",
+    "role": "Full-Stack Developer",
+    "title": "Mid-Level Full-Stack Developer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "next.js",
+      "sql",
+      "git"
+    ],
+    "description": "Collaborate in a cross-functional team to ship reliable, high-performance features for our web platform. You will write comprehensive integration tests and maintain both frontend views and backend endpoints.",
+    "postedAt": "2026-10-27T17:48:48Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-11",
+    "role": "Full-Stack Developer",
+    "title": "Full-Stack DevOps Engineer",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "docker",
+      "ci/cd",
+      "aws"
+    ],
+    "description": "Bridge web development and automated release operations as a Full-Stack DevOps Engineer. You will build web interfaces, optimize build pipelines, and configure reliable production cloud deployments.",
+    "postedAt": "2026-11-04T05:28:28Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-full-stack-developer-12",
+    "role": "Full-Stack Developer",
+    "title": "Principal Full-Stack Architect",
+    "skills": [
+      "react",
+      "node.js",
+      "typescript",
+      "javascript",
+      "graphql",
+      "docker"
+    ],
+    "description": "Define long-term technology choices and design scalable system architectures across our web application suite. You will partner with executive leadership to translate strategic business goals into resilient software platforms.",
+    "postedAt": "2026-11-11T17:08:08Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-01",
+    "role": "Data Analyst",
+    "title": "Senior Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "python",
+      "snowflake"
+    ],
+    "description": "We are seeking a Senior Data Analyst to uncover actionable business insights from our enterprise data warehouse. You will build comprehensive executive dashboards and query large-scale relational datasets using SQL.",
+    "postedAt": "2026-08-22T20:47:47Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-02",
+    "role": "Data Analyst",
+    "title": "Business Intelligence Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "power bi",
+      "business intelligence"
+    ],
+    "description": "Join our business intelligence team to transform raw operational metrics into automated, visually compelling reports. You will partner with business unit heads to define key performance indicators and maintain data models.",
+    "postedAt": "2026-08-30T08:27:27Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-03",
+    "role": "Data Analyst",
+    "title": "Product Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "a/b testing",
+      "product analytics"
+    ],
+    "description": "Help our product team understand user engagement patterns and measure feature adoption across web platforms. You will design rigorous A/B experiments and present quantitative findings to product managers.",
+    "postedAt": "2026-09-06T20:07:07Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-04",
+    "role": "Data Analyst",
+    "title": "Lead Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "bigquery",
+      "stakeholder management"
+    ],
+    "description": "Direct our analytical reporting strategy and mentor a talented group of junior and mid-level analysts. You will lead cross-functional data initiatives and translate complex technical findings for executive stakeholders.",
+    "postedAt": "2026-09-14T07:46:46Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-05",
+    "role": "Data Analyst",
+    "title": "Junior Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "data analytics",
+      "critical thinking"
+    ],
+    "description": "Start your analytical career by supporting internal reporting requests and auditing weekly business metrics. You will write SQL queries, update reporting dashboards, and verify data integrity across databases.",
+    "postedAt": "2026-09-21T19:26:26Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-06",
+    "role": "Data Analyst",
+    "title": "Marketing Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "python",
+      "presentation skills"
+    ],
+    "description": "Optimize multi-channel marketing campaigns and track customer acquisition funnels as a Marketing Data Analyst. You will analyze conversion attribution and present regular performance reviews to marketing leadership.",
+    "postedAt": "2026-09-29T07:06:06Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-07",
+    "role": "Data Analyst",
+    "title": "Operations Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "critical thinking",
+      "business intelligence"
+    ],
+    "description": "Streamline day-to-day business operations by identifying procedural bottlenecks and efficiency opportunities through data. You will model operational workflows and build automated monitoring alerts for management.",
+    "postedAt": "2026-10-06T18:45:45Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-08",
+    "role": "Data Analyst",
+    "title": "Cloud Data Warehouse Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "bigquery",
+      "snowflake"
+    ],
+    "description": "Leverage modern cloud data platforms to deliver fast, reliable data marts for departmental stakeholders. You will construct modular SQL views and validate automated ETL pipeline outputs.",
+    "postedAt": "2026-10-14T06:25:25Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-09",
+    "role": "Data Analyst",
+    "title": "Quantitative Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "python",
+      "r"
+    ],
+    "description": "Apply statistical modeling and exploratory data analysis to solve complex problems in financial forecasting. You will prepare predictive reports and communicate methodology assumptions clearly to department heads.",
+    "postedAt": "2026-10-21T18:05:05Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-10",
+    "role": "Data Analyst",
+    "title": "Mid-Level Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "power bi",
+      "data analytics"
+    ],
+    "description": "Collaborate with departmental leads to build interactive visual reports that drive daily decision-making. You will maintain data pipelines, document data dictionaries, and conduct ad-hoc data investigations.",
+    "postedAt": "2026-10-29T05:44:44Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-11",
+    "role": "Data Analyst",
+    "title": "Strategic Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "strategic planning",
+      "stakeholder management"
+    ],
+    "description": "Support high-level corporate planning by synthesizing market dynamics and historical business performance data. You will produce analytical briefs and provide data-backed recommendations to senior executives.",
+    "postedAt": "2026-11-05T17:24:24Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-analyst-12",
+    "role": "Data Analyst",
+    "title": "Principal Data Analyst",
+    "skills": [
+      "sql",
+      "data analysis",
+      "data visualization",
+      "tableau",
+      "snowflake",
+      "critical thinking",
+      "presentation skills"
+    ],
+    "description": "Shape the analytical roadmap and governance practices across our entire global organization. You will establish data visualization standards and lead enterprise-wide data literacy programs.",
+    "postedAt": "2026-11-13T05:04:04Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-01",
+    "role": "Data Scientist",
+    "title": "Senior Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "deep learning",
+      "pytorch"
+    ],
+    "description": "We are seeking a Senior Data Scientist to design and train predictive models for high-scale production systems. You will conduct exploratory data analysis and deploy machine learning algorithms to serve customer needs.",
+    "postedAt": "2026-08-24T08:43:43Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-02",
+    "role": "Data Scientist",
+    "title": "NLP Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "natural language processing",
+      "large language models"
+    ],
+    "description": "Join our artificial intelligence lab to develop text classification and semantic search models using natural language processing. You will fine-tune neural architectures and build evaluation benchmarks on domain-specific text.",
+    "postedAt": "2026-08-31T20:23:23Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-03",
+    "role": "Data Scientist",
+    "title": "Applied Machine Learning Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "mlops",
+      "docker"
+    ],
+    "description": "Bridge theoretical modeling and software engineering as an Applied Machine Learning Scientist on our platform team. You will automate model retraining pipelines and monitor inference latency in production.",
+    "postedAt": "2026-09-08T08:03:03Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-04",
+    "role": "Data Scientist",
+    "title": "Computer Vision Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "computer vision",
+      "tensorflow"
+    ],
+    "description": "Develop cutting-edge computer vision algorithms for real-time object detection and image segmentation. You will optimize neural networks for edge deployment and curate annotated training datasets.",
+    "postedAt": "2026-09-15T19:42:42Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-05",
+    "role": "Data Scientist",
+    "title": "Junior Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "data science",
+      "data analysis"
+    ],
+    "description": "Start your data science career by assisting with feature engineering, model validation, and exploratory data analysis. You will work under the guidance of senior scientists to clean datasets and evaluate model accuracy.",
+    "postedAt": "2026-09-23T07:22:22Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-06",
+    "role": "Data Scientist",
+    "title": "Generative AI Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "generative ai",
+      "prompt engineering",
+      "large language models"
+    ],
+    "description": "Innovate with foundational models to create novel generative applications and automated workflow agents. You will evaluate generative outputs, build retrieval-augmented systems, and prevent hallucination risks.",
+    "postedAt": "2026-09-30T19:02:02Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-07",
+    "role": "Data Scientist",
+    "title": "Lead Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "pytorch",
+      "apache spark",
+      "data engineering"
+    ],
+    "description": "Lead our algorithmic research initiatives and mentor data scientists across multiple product teams. You will define the modeling strategy for large-scale distributed datasets and align data initiatives with business goals.",
+    "postedAt": "2026-10-08T06:41:41Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-08",
+    "role": "Data Scientist",
+    "title": "Predictive Analytics Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "a/b testing",
+      "data science"
+    ],
+    "description": "Build forecasting models and churn prediction systems to enhance customer retention and lifetime value. You will design controlled experiments to measure the commercial impact of algorithmic interventions.",
+    "postedAt": "2026-10-15T18:21:21Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-09",
+    "role": "Data Scientist",
+    "title": "Big Data Machine Learning Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "apache spark",
+      "data engineering"
+    ],
+    "description": "Scale machine learning workflows over terabyte-scale clusters as a Big Data Machine Learning Scientist. You will implement distributed training routines and optimize feature extraction on distributed data frames.",
+    "postedAt": "2026-10-23T06:01:01Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-10",
+    "role": "Data Scientist",
+    "title": "Mid-Level Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "deep learning",
+      "tensorflow"
+    ],
+    "description": "Train, evaluate, and iterate on statistical models to solve complex prediction problems across our applications. You will collaborate with software engineers to integrate model artifacts into live microservices.",
+    "postedAt": "2026-10-30T17:40:40Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-11",
+    "role": "Data Scientist",
+    "title": "Staff AI Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "pytorch",
+      "mlops",
+      "natural language processing"
+    ],
+    "description": "Drive technical strategy for artificial intelligence capabilities across our enterprise product ecosystem. You will spearhead architectural reviews, evaluate emerging model architectures, and ensure algorithmic fairness.",
+    "postedAt": "2026-11-07T05:20:20Z",
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-scientist-12",
+    "role": "Data Scientist",
+    "title": "Principal Data Scientist",
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "scikit-learn",
+      "deep learning",
+      "large language models"
+    ],
+    "description": "Act as our primary algorithmic authority by setting the long-range scientific vision for the company. You will represent the organization in technical forums and guide high-stakes predictive modeling investments.",
+    "postedAt": "2026-11-14T17:00:00Z",
+    "source": "synthetic"
+  }
+]

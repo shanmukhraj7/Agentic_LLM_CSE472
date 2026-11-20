@@ -1,0 +1,810 @@
+[
+  {
+    "id": "data-intro-data-analysis",
+    "title": "Introduction to Data Analysis with Python",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Introduction%20to%20Data%20Analysis%20with%20Python",
+    "skills": [
+      "data analysis",
+      "python"
+    ],
+    "level": "beginner",
+    "durationHrs": 15,
+    "prerequisites": [],
+    "description": "Discover the fundamentals of manipulating and analyzing tabular datasets using Python and pandas. Clean raw data, calculate summary statistics, and prepare datasets for analytical workflows."
+  },
+  {
+    "id": "data-sql-for-analytics",
+    "title": "SQL Fundamentals for Data Analytics",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=SQL%20Fundamentals%20for%20Data%20Analytics",
+    "skills": [
+      "sql",
+      "data analytics"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Master writing SQL queries to extract, aggregate, and filter business records from relational databases. Learn table joins, grouping operations, and basic query optimization techniques."
+  },
+  {
+    "id": "data-visualization-essentials",
+    "title": "Data Visualization Essentials",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Data%20Visualization%20Essentials",
+    "skills": [
+      "data visualization"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Learn visual storytelling and chart selection techniques to communicate data insights effectively. Understand color balance, chart types, and layout principles for clear visual communication."
+  },
+  {
+    "id": "data-power-bi-basics",
+    "title": "Power BI for Business Analytics",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Power%20BI%20for%20Business%20Analytics",
+    "skills": [
+      "power bi",
+      "business intelligence"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Connect diverse data sources and build interactive executive dashboards using Microsoft Power BI. Design dynamic report visuals and publish intuitive analytics reports for business stakeholders."
+  },
+  {
+    "id": "data-tableau-foundations",
+    "title": "Tableau Fundamentals for Data Visualization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Tableau%20Fundamentals%20for%20Data%20Visualization",
+    "skills": [
+      "tableau",
+      "data visualization"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Create compelling charts, maps, and interactive drill-down dashboards using Tableau Desktop. Connect to live spreadsheets, organize data fields, and craft impactful analytical presentations."
+  },
+  {
+    "id": "data-statistics-with-r",
+    "title": "Introduction to Statistics and Data Science with R",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Introduction%20to%20Statistics%20and%20Data%20Science%20with%20R",
+    "skills": [
+      "data science",
+      "r",
+      "data analysis"
+    ],
+    "level": "beginner",
+    "durationHrs": 16,
+    "prerequisites": [],
+    "description": "Grasp fundamental probability concepts, distributions, and summary statistics using the R statistical environment. Perform exploratory data analysis and visualize key statistical patterns with clarity."
+  },
+  {
+    "id": "data-machine-learning-basics",
+    "title": "Machine Learning Fundamentals for Beginners",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Machine%20Learning%20Fundamentals%20for%20Beginners",
+    "skills": [
+      "machine learning",
+      "artificial intelligence"
+    ],
+    "level": "beginner",
+    "durationHrs": 20,
+    "prerequisites": [],
+    "description": "Understand core concepts of supervised and unsupervised machine learning algorithms. Explore regression, classification, and clustering techniques to solve real-world predictive challenges."
+  },
+  {
+    "id": "data-prompt-engineering",
+    "title": "Prompt Engineering and Generative AI Fundamentals",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Prompt%20Engineering%20and%20Generative%20AI%20Fundamentals",
+    "skills": [
+      "prompt engineering",
+      "generative ai"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Master prompt design strategies including few-shot prompting, persona guidance, and chain-of-thought formatting. Harness generative AI models to automate content generation, summarization, and code assistance."
+  },
+  {
+    "id": "data-python-data-science-intro",
+    "title": "Python for Data Science Bootcamp",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Python%20for%20Data%20Science%20Bootcamp",
+    "skills": [
+      "python",
+      "data science"
+    ],
+    "level": "beginner",
+    "durationHrs": 18,
+    "prerequisites": [],
+    "description": "Learn computational data manipulation using NumPy arrays, pandas DataFrames, and Matplotlib. Process numerical data efficiently and build foundational scripts for scientific computing."
+  },
+  {
+    "id": "data-business-intelligence-basics",
+    "title": "Business Intelligence and Data Literacy",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Business%20Intelligence%20and%20Data%20Literacy",
+    "skills": [
+      "business intelligence",
+      "data analytics"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Understand key performance indicators, data governance standards, and metric tracking across organizational domains. Turn operational datasets into actionable executive insights to guide strategic decisions."
+  },
+  {
+    "id": "data-product-analytics-foundations",
+    "title": "Product Analytics and User Metrics",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Product%20Analytics%20and%20User%20Metrics",
+    "skills": [
+      "product analytics",
+      "data analytics"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Analyze user engagement, retention curves, conversion funnels, and activation metrics for software products. Learn to identify churn risks and evaluate user behavior using event tracking data."
+  },
+  {
+    "id": "data-deep-learning-intro",
+    "title": "Introduction to Deep Learning and Neural Networks",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Introduction%20to%20Deep%20Learning%20and%20Neural%20Networks",
+    "skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Explore the structural foundations of artificial neural networks, activation functions, and backpropagation. Understand how multi-layer perceptrons learn representations from raw numerical and visual data."
+  },
+  {
+    "id": "data-data-engineering-foundations",
+    "title": "Data Engineering Foundations and ETL Pipelines",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Data%20Engineering%20Foundations%20and%20ETL%20Pipelines",
+    "skills": [
+      "data engineering"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Examine core data engineering concepts including ETL pipelines, data warehouses, and batch versus stream processing. Learn how clean data flows from transactional systems into analytical data lakes."
+  },
+  {
+    "id": "data-bigquery-quickstart",
+    "title": "Getting Started with Google BigQuery",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Getting%20Started%20with%20Google%20BigQuery",
+    "skills": [
+      "bigquery",
+      "sql",
+      "google cloud"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Navigate Google Cloud console to query massive datasets rapidly using serverless BigQuery SQL syntax. Understand partitioned tables, clustering keys, and cost estimation for cloud analytics."
+  },
+  {
+    "id": "data-snowflake-foundations",
+    "title": "Snowflake Cloud Data Warehouse Fundamentals",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Snowflake%20Cloud%20Data%20Warehouse%20Fundamentals",
+    "skills": [
+      "snowflake",
+      "sql"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Learn Snowflake decoupled storage and compute architecture, virtual warehouses, and role-based access. Ingest structured and semi-structured JSON records while running performant analytical SQL queries."
+  },
+  {
+    "id": "data-nlp-foundations",
+    "title": "Natural Language Processing Fundamentals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Natural%20Language%20Processing%20Fundamentals",
+    "skills": [
+      "natural language processing",
+      "artificial intelligence"
+    ],
+    "level": "beginner",
+    "durationHrs": 16,
+    "prerequisites": [],
+    "description": "Learn tokenization, text preprocessing, sentiment analysis, and topic modeling for unstructured text documents. Build text classification models to extract meaning and intent from natural language data."
+  },
+  {
+    "id": "data-ab-testing-analytics",
+    "title": "A/B Testing for Data Scientists and Analysts",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=A/B%20Testing%20for%20Data%20Scientists%20and%20Analysts",
+    "skills": [
+      "a/b testing",
+      "data analysis"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Formulate testable hypotheses, determine required sample sizes, and evaluate statistical significance in randomized experiments. Avoid common statistical pitfalls such as p-hacking and early stopping biases."
+  },
+  {
+    "id": "data-scikit-learn-quickstart",
+    "title": "Practical Machine Learning with Scikit-Learn",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Practical%20Machine%20Learning%20with%20Scikit-Learn",
+    "skills": [
+      "scikit-learn",
+      "machine learning",
+      "python"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Train linear models, decision trees, and random forests using scikit-learn standard estimator APIs. Evaluate model accuracy using cross-validation, confusion matrices, and ROC curves."
+  },
+  {
+    "id": "data-generative-ai-landscape",
+    "title": "Generative AI and Large Language Models Overview",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Generative%20AI%20and%20Large%20Language%20Models%20Overview",
+    "skills": [
+      "generative ai",
+      "large language models"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Examine the evolution of transformer architectures, foundational models, and generative text capabilities. Understand tokenization limits, context windows, and practical deployment considerations across industries."
+  },
+  {
+    "id": "data-mlops-intro",
+    "title": "Introduction to MLOps and Model Lifecycle",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Introduction%20to%20MLOps%20and%20Model%20Lifecycle",
+    "skills": [
+      "mlops",
+      "machine learning"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Learn the challenges of moving experimental machine learning models from Jupyter notebooks into production. Explore experiment tracking, model registry management, and continuous retraining principles."
+  },
+  {
+    "id": "data-applied-statistics-python",
+    "title": "Applied Statistics and Hypothesis Testing in Python",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Applied%20Statistics%20and%20Hypothesis%20Testing%20in%20Python",
+    "skills": [
+      "data analysis",
+      "python",
+      "data science"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "data-intro-data-analysis",
+      "web-python-programming-basics"
+    ],
+    "description": "Implement parametric and non-parametric hypothesis tests, ANOVA, and regression diagnostics with SciPy and Statsmodels. Interpret confidence intervals and p-values accurately to validate data-driven hypotheses."
+  },
+  {
+    "id": "data-advanced-sql-analytics",
+    "title": "Advanced SQL: Window Functions, CTEs, and Complex Queries",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Advanced%20SQL%3A%20Window%20Functions%2C%20CTEs%2C%20and%20Complex%20Queries",
+    "skills": [
+      "sql",
+      "data analytics"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "data-sql-for-analytics",
+      "web-sql-fundamentals"
+    ],
+    "description": "Master analytical window functions, common table expressions, and recursive SQL queries for reporting. Solve complex data aggregation scenarios and optimize query execution plans on large databases."
+  },
+  {
+    "id": "data-feature-engineering-scikit",
+    "title": "Feature Engineering and Selection with Scikit-Learn",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Feature%20Engineering%20and%20Selection%20with%20Scikit-Learn",
+    "skills": [
+      "scikit-learn",
+      "machine learning",
+      "data science"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "data-scikit-learn-quickstart",
+      "data-python-data-science-intro"
+    ],
+    "description": "Transform raw tabular variables through encoding, scaling, imputing missing data, and feature extraction. Construct clean scikit-learn pipelines to eliminate data leakage and boost predictive performance."
+  },
+  {
+    "id": "data-pytorch-deep-learning",
+    "title": "Deep Learning with PyTorch: From Tensors to Neural Networks",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Deep%20Learning%20with%20PyTorch%3A%20From%20Tensors%20to%20Neural%20Networks",
+    "skills": [
+      "pytorch",
+      "deep learning",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 28,
+    "prerequisites": [
+      "data-deep-learning-intro",
+      "web-python-programming-basics"
+    ],
+    "description": "Build and train custom neural network architectures using PyTorch tensors, autograd, and DataLoader utilities. Implement training loops, customize loss functions, and optimize network weights with backpropagation."
+  },
+  {
+    "id": "data-tensorflow-neural-networks",
+    "title": "TensorFlow and Keras for Deep Learning",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=TensorFlow%20and%20Keras%20for%20Deep%20Learning",
+    "skills": [
+      "tensorflow",
+      "deep learning",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 26,
+    "prerequisites": [
+      "data-deep-learning-intro",
+      "web-python-programming-basics"
+    ],
+    "description": "Develop and evaluate neural network models utilizing TensorFlow 2 and the Keras sequential and functional APIs. Apply regularization, dropout, and learning rate scheduling to prevent overfitting during training."
+  },
+  {
+    "id": "data-computer-vision-pytorch",
+    "title": "Computer Vision and Convolutional Networks in PyTorch",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Computer%20Vision%20and%20Convolutional%20Networks%20in%20PyTorch",
+    "skills": [
+      "computer vision",
+      "pytorch",
+      "deep learning"
+    ],
+    "level": "intermediate",
+    "durationHrs": 25,
+    "prerequisites": [
+      "data-pytorch-deep-learning"
+    ],
+    "description": "Design convolutional neural networks for image classification, object localization, and semantic segmentation tasks. Implement image augmentations and transfer learning using pre-trained vision backbones."
+  },
+  {
+    "id": "data-hugging-face-transformers",
+    "title": "Hugging Face Transformers for Natural Language Processing",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Hugging%20Face%20Transformers%20for%20Natural%20Language%20Processing",
+    "skills": [
+      "hugging face",
+      "natural language processing",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 24,
+    "prerequisites": [
+      "data-nlp-foundations",
+      "web-python-programming-basics"
+    ],
+    "description": "Leverage Hugging Face library pipelines, tokenizers, and datasets to fine-tune pre-trained transformer models. Fine-tune BERT models for text classification, named entity recognition, and question answering."
+  },
+  {
+    "id": "data-rag-systems-architecture",
+    "title": "Building Retrieval-Augmented Generation Systems",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Building%20Retrieval-Augmented%20Generation%20Systems",
+    "skills": [
+      "large language models",
+      "generative ai",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "data-generative-ai-landscape",
+      "web-python-programming-basics"
+    ],
+    "description": "Architect robust RAG pipelines combining vector embeddings, chunking strategies, and retriever re-ranking modules. Augment language model responses with proprietary knowledge bases while eliminating model hallucinations."
+  },
+  {
+    "id": "data-vector-databases-semantic-search",
+    "title": "Vector Databases and Semantic Search Applications",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Vector%20Databases%20and%20Semantic%20Search%20Applications",
+    "skills": [
+      "large language models",
+      "data engineering",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "data-rag-systems-architecture"
+    ],
+    "description": "Store and index dense vector embeddings to perform ultra-fast nearest-neighbor similarity searches at scale. Implement hybrid keyword and semantic retrieval to power modern knowledge discovery applications."
+  },
+  {
+    "id": "data-apache-spark-pyspark",
+    "title": "Big Data Processing with Apache Spark and PySpark",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Big%20Data%20Processing%20with%20Apache%20Spark%20and%20PySpark",
+    "skills": [
+      "apache spark",
+      "data engineering",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 30,
+    "prerequisites": [
+      "data-data-engineering-foundations",
+      "web-python-programming-basics"
+    ],
+    "description": "Execute distributed data transformations and queries across massive clusters using Spark DataFrames and Spark SQL. Manage partitions, cache intermediate datasets, and build resilient distributed batch processing pipelines."
+  },
+  {
+    "id": "data-apache-kafka-streaming",
+    "title": "Real-Time Event Streaming with Apache Kafka",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Real-Time%20Event%20Streaming%20with%20Apache%20Kafka",
+    "skills": [
+      "apache kafka",
+      "data engineering"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "data-data-engineering-foundations"
+    ],
+    "description": "Publish and consume high-throughput event logs across distributed Kafka topics, brokers, and consumer groups. Manage schema evolution, partition keys, and stream processing topologies for real-time analytics."
+  },
+  {
+    "id": "data-cloud-data-warehousing",
+    "title": "Cloud Data Warehousing on AWS and Snowflake",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Cloud%20Data%20Warehousing%20on%20AWS%20and%20Snowflake",
+    "skills": [
+      "snowflake",
+      "aws",
+      "cloud computing"
+    ],
+    "level": "intermediate",
+    "durationHrs": 24,
+    "prerequisites": [
+      "data-snowflake-foundations"
+    ],
+    "description": "Design dimensional star schemas, fact tables, and data staging areas in cloud data warehouses. Orchestrate automated data ingestion from Amazon S3 buckets into Snowflake production schemas."
+  },
+  {
+    "id": "data-ml-pipeline-fastapi-docker",
+    "title": "Deploying Machine Learning Models with FastAPI and Docker",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Deploying%20Machine%20Learning%20Models%20with%20FastAPI%20and%20Docker",
+    "skills": [
+      "fastapi",
+      "docker",
+      "mlops"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "data-scikit-learn-quickstart",
+      "web-docker-essentials"
+    ],
+    "description": "Wrap trained machine learning artifacts in low-latency FastAPI endpoints with strict schema validation. Containerize inference servers using Docker images to achieve reproducible cloud deployments."
+  },
+  {
+    "id": "data-mlflow-experiment-tracking",
+    "title": "Experiment Tracking and Model Registry with MLOps Tools",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Experiment%20Tracking%20and%20Model%20Registry%20with%20MLOps%20Tools",
+    "skills": [
+      "mlops",
+      "machine learning",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 14,
+    "prerequisites": [
+      "data-mlops-intro",
+      "data-scikit-learn-quickstart"
+    ],
+    "description": "Track hyperparameter experiments, evaluation metrics, and model artifacts systematically across model training iterations. Register versioned production models and transition staging candidates through automated approval gates."
+  },
+  {
+    "id": "data-reinforcement-learning-intro",
+    "title": "Reinforcement Learning Foundations and Q-Learning",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Reinforcement%20Learning%20Foundations%20and%20Q-Learning",
+    "skills": [
+      "reinforcement learning",
+      "python",
+      "artificial intelligence"
+    ],
+    "level": "intermediate",
+    "durationHrs": 26,
+    "prerequisites": [
+      "data-machine-learning-basics",
+      "web-python-programming-basics"
+    ],
+    "description": "Formulate decision problems as Markov Decision Processes using states, actions, rewards, and discount factors. Implement classic value iteration, Q-learning, and policy gradient algorithms in Python simulation environments."
+  },
+  {
+    "id": "data-product-growth-experimentation",
+    "title": "Product Analytics and Growth Experimentation",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Product%20Analytics%20and%20Growth%20Experimentation",
+    "skills": [
+      "product analytics",
+      "a/b testing"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "data-product-analytics-foundations",
+      "data-ab-testing-analytics"
+    ],
+    "description": "Design behavioral cohort analysis and multi-variant experimentation strategies to accelerate product adoption. Measure user lifecycle transitions, calculate lifetime customer value, and eliminate onboarding friction."
+  },
+  {
+    "id": "data-interactive-dashboards-python",
+    "title": "Building Interactive Analytical Dashboards in Python",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Building%20Interactive%20Analytical%20Dashboards%20in%20Python",
+    "skills": [
+      "data visualization",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 14,
+    "prerequisites": [
+      "data-python-data-science-intro"
+    ],
+    "description": "Create responsive web dashboards and data exploration tools using Plotly and Python visualization frameworks. Render dynamic charts, interactive sliders, and filterable data tables for business decision makers."
+  },
+  {
+    "id": "data-bigquery-advanced-analytics",
+    "title": "Advanced Analytics and ML in Google BigQuery",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Advanced%20Analytics%20and%20ML%20in%20Google%20BigQuery",
+    "skills": [
+      "bigquery",
+      "machine learning",
+      "data analytics"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "data-bigquery-quickstart"
+    ],
+    "description": "Train and deploy machine learning models directly inside Google BigQuery using standard SQL queries. Run geospatial analytics, user clustering, and time-series forecasting across petabyte-scale datasets."
+  },
+  {
+    "id": "data-ci-cd-for-machine-learning",
+    "title": "Continuous Integration and Testing for ML Pipelines",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Continuous%20Integration%20and%20Testing%20for%20ML%20Pipelines",
+    "skills": [
+      "mlops",
+      "ci/cd",
+      "github"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "data-mlops-intro",
+      "web-git-fundamentals"
+    ],
+    "description": "Automate code linting, data validation tests, and model performance regression checks using GitHub Actions. Trigger automated model training and validation workflows upon new code or dataset commits."
+  },
+  {
+    "id": "data-time-series-forecasting",
+    "title": "Time Series Analysis and Forecasting in Python",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Time%20Series%20Analysis%20and%20Forecasting%20in%20Python",
+    "skills": [
+      "data science",
+      "data analysis",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "data-applied-statistics-python"
+    ],
+    "description": "Decompose temporal trends, seasonality, and stationarity using ARIMA, Prophet, and statistical modeling tools. Build robust time-series forecasting pipelines for demand planning, financial modeling, and inventory tracking."
+  },
+  {
+    "id": "data-fine-tuning-llms",
+    "title": "Fine-Tuning Large Language Models with LoRA and PEFT",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Fine-Tuning%20Large%20Language%20Models%20with%20LoRA%20and%20PEFT",
+    "skills": [
+      "large language models",
+      "generative ai",
+      "pytorch"
+    ],
+    "level": "advanced",
+    "durationHrs": 36,
+    "prerequisites": [
+      "data-hugging-face-transformers",
+      "data-rag-systems-architecture"
+    ],
+    "description": "Adapt foundation language models to specialized domains using Parameter-Efficient Fine-Tuning and Low-Rank Adaptation. Prepare instruction datasets, manage GPU memory budgets with quantization, and benchmark model outputs."
+  },
+  {
+    "id": "data-autonomous-ai-agents",
+    "title": "Architecting Autonomous AI Agents and Multi-Agent Workflows",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Architecting%20Autonomous%20AI%20Agents%20and%20Multi-Agent%20Workflows",
+    "skills": [
+      "large language models",
+      "generative ai",
+      "artificial intelligence"
+    ],
+    "level": "advanced",
+    "durationHrs": 32,
+    "prerequisites": [
+      "data-rag-systems-architecture"
+    ],
+    "description": "Build goal-oriented autonomous agents capable of tool usage, dynamic planning, and multi-agent coordination. Implement self-reflection loops, memory persistence, and guardrails for resilient production agent swarms."
+  },
+  {
+    "id": "data-production-mlops-kubernetes",
+    "title": "Production MLOps on Kubernetes with Kubeflow",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Production%20MLOps%20on%20Kubernetes%20with%20Kubeflow",
+    "skills": [
+      "mlops",
+      "kubernetes",
+      "docker"
+    ],
+    "level": "advanced",
+    "durationHrs": 45,
+    "prerequisites": [
+      "data-ml-pipeline-fastapi-docker",
+      "data-ci-cd-for-machine-learning"
+    ],
+    "description": "Deploy scalable training pipelines and distributed hyperparameter tuning jobs on Kubernetes clusters with Kubeflow. Configure automated model rollout strategies, GPU resource scheduling, and fault-tolerant cluster operations."
+  },
+  {
+    "id": "data-advanced-deep-reinforcement-learning",
+    "title": "Deep Reinforcement Learning: Actor-Critic and PPO",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Deep%20Reinforcement%20Learning%3A%20Actor-Critic%20and%20PPO",
+    "skills": [
+      "reinforcement learning",
+      "deep learning",
+      "pytorch"
+    ],
+    "level": "advanced",
+    "durationHrs": 40,
+    "prerequisites": [
+      "data-reinforcement-learning-intro",
+      "data-pytorch-deep-learning"
+    ],
+    "description": "Master advanced policy gradient algorithms including Deep Q-Networks, Proximal Policy Optimization, and Actor-Critic methods. Train autonomous agents to solve complex continuous-control tasks and multi-agent strategic environments."
+  },
+  {
+    "id": "data-advanced-nlp-llm-pretraining",
+    "title": "Pretraining and Distributed Training of Large Language Models",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Pretraining%20and%20Distributed%20Training%20of%20Large%20Language%20Models",
+    "skills": [
+      "large language models",
+      "deep learning",
+      "pytorch"
+    ],
+    "level": "advanced",
+    "durationHrs": 50,
+    "prerequisites": [
+      "data-fine-tuning-llms",
+      "data-pytorch-deep-learning"
+    ],
+    "description": "Scale deep neural network training across multi-node GPU clusters using DeepSpeed and Megatron-LM data parallelism. Optimize gradient accumulation, mixed-precision arithmetic, and high-bandwidth interconnects for large model pretraining."
+  },
+  {
+    "id": "data-enterprise-rag-evaluation",
+    "title": "Enterprise RAG: Advanced Indexing and Evaluation Frameworks",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Enterprise%20RAG%3A%20Advanced%20Indexing%20and%20Evaluation%20Frameworks",
+    "skills": [
+      "large language models",
+      "data engineering",
+      "generative ai"
+    ],
+    "level": "advanced",
+    "durationHrs": 30,
+    "prerequisites": [
+      "data-rag-systems-architecture",
+      "data-vector-databases-semantic-search"
+    ],
+    "description": "Implement hierarchical chunking, hypothetical document embeddings, and multi-query retrieval strategies in enterprise RAG systems. Evaluate context relevance, answer groundedness, and hallucination metrics systematically using automated scoring frameworks."
+  },
+  {
+    "id": "data-realtime-data-mesh",
+    "title": "Real-Time Streaming Architecture and Data Mesh",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Real-Time%20Streaming%20Architecture%20and%20Data%20Mesh",
+    "skills": [
+      "data engineering",
+      "apache kafka",
+      "apache spark"
+    ],
+    "level": "advanced",
+    "durationHrs": 42,
+    "prerequisites": [
+      "data-apache-spark-pyspark",
+      "data-apache-kafka-streaming"
+    ],
+    "description": "Architect decentralized domain-driven data meshes delivering real-time analytical event streams across enterprise services. Combine Kafka event logs with Spark Structured Streaming for exactly-once processing guarantees and low-latency metrics."
+  },
+  {
+    "id": "data-cloud-native-ai-infrastructure",
+    "title": "Cloud-Native Machine Learning Infrastructure on AWS",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Cloud-Native%20Machine%20Learning%20Infrastructure%20on%20AWS",
+    "skills": [
+      "mlops",
+      "aws",
+      "cloud computing"
+    ],
+    "level": "advanced",
+    "durationHrs": 38,
+    "prerequisites": [
+      "data-ml-pipeline-fastapi-docker",
+      "data-cloud-data-warehousing"
+    ],
+    "description": "Architect highly scalable inference and batch prediction architectures utilizing Amazon SageMaker and AWS serverless computing. Automate model drift detection, data lineage tracking, and automated rollback upon prediction quality degradation."
+  },
+  {
+    "id": "data-advanced-computer-vision-diffusion",
+    "title": "Generative Computer Vision: Diffusion Models and GANs",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Generative%20Computer%20Vision%3A%20Diffusion%20Models%20and%20GANs",
+    "skills": [
+      "computer vision",
+      "generative ai",
+      "pytorch"
+    ],
+    "level": "advanced",
+    "durationHrs": 35,
+    "prerequisites": [
+      "data-computer-vision-pytorch"
+    ],
+    "description": "Explore the mathematics and neural architectures behind latent diffusion models, score-based generation, and generative adversarial networks. Implement conditioning mechanisms, classifier-free guidance, and text-to-image synthesis pipelines with PyTorch."
+  },
+  {
+    "id": "data-continuous-monitoring-mlops",
+    "title": "Continuous Monitoring, Model Drift, and Observability in MLOps",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Continuous%20Monitoring%2C%20Model%20Drift%2C%20and%20Observability%20in%20MLOps",
+    "skills": [
+      "mlops",
+      "data analytics",
+      "python"
+    ],
+    "level": "advanced",
+    "durationHrs": 28,
+    "prerequisites": [
+      "data-mlflow-experiment-tracking",
+      "data-ci-cd-for-machine-learning"
+    ],
+    "description": "Detect statistical feature drift, concept drift, and data pipeline schema anomalies before they harm production services. Implement real-time latency monitoring, prediction distribution alerts, and automated retraining triggers."
+  }
+]

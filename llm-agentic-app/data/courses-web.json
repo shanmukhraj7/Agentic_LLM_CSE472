@@ -1,0 +1,774 @@
+[
+  {
+    "id": "web-html-foundations",
+    "title": "HTML5 Fundamentals for Modern Web Development",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=HTML5%20Fundamentals%20for%20Modern%20Web%20Development",
+    "skills": [
+      "html"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Learn the core building blocks of web pages using semantic HTML5 elements. Practice structuring accessible content and creating modern markup for responsive applications."
+  },
+  {
+    "id": "web-css-basics",
+    "title": "CSS Basics and Responsive Design",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=CSS%20Basics%20and%20Responsive%20Design",
+    "skills": [
+      "css"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Master styling web documents using modern CSS syntax, flexbox, and grid layouts. Build fluid web layouts that adapt seamlessly across desktop and mobile screens."
+  },
+  {
+    "id": "web-javascript-foundations",
+    "title": "JavaScript Fundamentals for Beginners",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=JavaScript%20Fundamentals%20for%20Beginners",
+    "skills": [
+      "javascript"
+    ],
+    "level": "beginner",
+    "durationHrs": 18,
+    "prerequisites": [],
+    "description": "Understand programming essentials such as variables, data types, functions, and control flow in JavaScript. Develop hands-on problem-solving skills by building interactive browser scripts."
+  },
+  {
+    "id": "web-git-fundamentals",
+    "title": "Version Control with Git and GitHub",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Version%20Control%20with%20Git%20and%20GitHub",
+    "skills": [
+      "git",
+      "github"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Track code changes and collaborate effectively using Git commands and GitHub repositories. Learn branching, merging, and pull request workflows essential for software development teams."
+  },
+  {
+    "id": "web-python-programming-basics",
+    "title": "Python Programming for Beginners",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Python%20Programming%20for%20Beginners",
+    "skills": [
+      "python"
+    ],
+    "level": "beginner",
+    "durationHrs": 20,
+    "prerequisites": [],
+    "description": "Explore programming principles using Python readable syntax. Write basic scripts, manipulate data structures, and automate repetitive computing tasks."
+  },
+  {
+    "id": "web-sql-fundamentals",
+    "title": "SQL and Relational Database Basics",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=SQL%20and%20Relational%20Database%20Basics",
+    "skills": [
+      "sql"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Learn foundational database concepts and execute basic SQL queries to retrieve and filter data. Create relational tables, define foreign keys, and perform data manipulation operations."
+  },
+  {
+    "id": "web-linux-command-line",
+    "title": "Linux Command Line Essentials",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Linux%20Command%20Line%20Essentials",
+    "skills": [
+      "linux"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Navigate file systems, manage processes, and run shell utilities with confidence on Linux. Build the fundamental terminal skills required for modern developer and server environments."
+  },
+  {
+    "id": "web-tailwind-css-quickstart",
+    "title": "Getting Started with Tailwind CSS",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Getting%20Started%20with%20Tailwind%20CSS",
+    "skills": [
+      "tailwind css",
+      "css"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Accelerate your styling workflow using utility-first CSS classes directly in your HTML markup. Construct clean, responsive user interfaces without writing custom CSS stylesheets from scratch."
+  },
+  {
+    "id": "web-node-js-fundamentals",
+    "title": "Node.js Basics for JavaScript Developers",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Node.js%20Basics%20for%20JavaScript%20Developers",
+    "skills": [
+      "node.js",
+      "javascript"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Run JavaScript outside the browser using the Node.js runtime and its asynchronous event architecture. Work with built-in modules, file system operations, and package managers."
+  },
+  {
+    "id": "web-ui-design-principles",
+    "title": "UI Design Foundations for Web Developers",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=UI%20Design%20Foundations%20for%20Web%20Developers",
+    "skills": [
+      "ui design"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Learn visual hierarchy, typography, color theory, and spacing principles to design intuitive digital interfaces. Translate mockups into clean layouts that enhance overall user experience."
+  },
+  {
+    "id": "web-react-fundamentals",
+    "title": "React Basics for Front-End Developers",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=React%20Basics%20for%20Front-End%20Developers",
+    "skills": [
+      "react",
+      "javascript"
+    ],
+    "level": "beginner",
+    "durationHrs": 16,
+    "prerequisites": [],
+    "description": "Build component-driven user interfaces using React elements, props, state, and standard hooks. Understand the virtual DOM and learn to manage user interactions cleanly."
+  },
+  {
+    "id": "web-mongodb-basics",
+    "title": "Introduction to MongoDB and Document Databases",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Introduction%20to%20MongoDB%20and%20Document%20Databases",
+    "skills": [
+      "mongodb"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Understand flexible document models and JSON-like data storage using MongoDB. Execute CRUD operations, explore document schemas, and perform basic aggregation pipelines."
+  },
+  {
+    "id": "web-rest-api-basics",
+    "title": "RESTful API Concepts and Fundamentals",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=RESTful%20API%20Concepts%20and%20Fundamentals",
+    "skills": [
+      "rest api"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Examine HTTP methods, status codes, headers, and resource modeling conventions for REST services. Learn how client applications communicate securely and predictably with web servers."
+  },
+  {
+    "id": "web-docker-essentials",
+    "title": "Docker Essentials for Developers",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Docker%20Essentials%20for%20Developers",
+    "skills": [
+      "docker"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Package applications and runtime dependencies into lightweight containers using Dockerfiles and images. Run consistent development environments locally and manage multi-container setups with Docker Compose."
+  },
+  {
+    "id": "web-flask-basics",
+    "title": "Building Web Apps with Flask and Python",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Building%20Web%20Apps%20with%20Flask%20and%20Python",
+    "skills": [
+      "flask",
+      "python"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Create lightweight web services and templates using the minimalist Flask microframework in Python. Configure URL routing, handle form submissions, and serve dynamic web pages."
+  },
+  {
+    "id": "web-vue-fundamentals",
+    "title": "Vue.js Foundations for Frontend Engineers",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Vue.js%20Foundations%20for%20Frontend%20Engineers",
+    "skills": [
+      "vue.js",
+      "javascript"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Discover declarative rendering, reactive data bindings, and single-file components with Vue.js. Construct interactive frontend widgets and manage local component state effortlessly."
+  },
+  {
+    "id": "web-go-programming-basics",
+    "title": "Introduction to Go for Software Developers",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Introduction%20to%20Go%20for%20Software%20Developers",
+    "skills": [
+      "go"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Explore Go syntax, strong typing, packages, and compilation for systems and web backends. Write concise, readable code with robust error handling and standard library utilities."
+  },
+  {
+    "id": "web-typescript-quickstart",
+    "title": "TypeScript Getting Started Guide",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=TypeScript%20Getting%20Started%20Guide",
+    "skills": [
+      "typescript",
+      "javascript"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Add static typing to JavaScript code to catch bugs early during development. Understand basic type annotations, interfaces, union types, and compiler configuration."
+  },
+  {
+    "id": "web-application-security-basics",
+    "title": "Introduction to Web Application Security",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Introduction%20to%20Web%20Application%20Security",
+    "skills": [
+      "application security"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Familiarize yourself with common web vulnerabilities such as SQL injection, cross-site scripting, and broken authentication. Implement foundational defensive coding habits to protect applications against standard web exploits."
+  },
+  {
+    "id": "web-express-js-quickstart",
+    "title": "Express.js Fundamentals for Web Servers",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Express.js%20Fundamentals%20for%20Web%20Servers",
+    "skills": [
+      "express.js",
+      "node.js"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Build straightforward HTTP web servers and REST endpoints using Express.js middleware and routers. Parse JSON payloads, handle query parameters, and structure modular backend code."
+  },
+  {
+    "id": "web-intermediate-javascript",
+    "title": "Intermediate JavaScript: Asynchronous and Modern ES6+",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Intermediate%20JavaScript%3A%20Asynchronous%20and%20Modern%20ES6%2B",
+    "skills": [
+      "javascript"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "web-javascript-foundations"
+    ],
+    "description": "Deep dive into closures, prototypes, promises, async/await, and event loop mechanics in modern JavaScript. Master advanced functional patterns and optimize client-side code performance."
+  },
+  {
+    "id": "web-intermediate-typescript",
+    "title": "TypeScript in Practice: Robust Typing and Generics",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=TypeScript%20in%20Practice%3A%20Robust%20Typing%20and%20Generics",
+    "skills": [
+      "typescript"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "web-typescript-quickstart",
+      "web-javascript-foundations"
+    ],
+    "description": "Leverage generic types, conditional types, mapped types, and utility types in production codebases. Ensure type safety across complex client and server interfaces while avoiding common typing traps."
+  },
+  {
+    "id": "web-intermediate-react",
+    "title": "React State Management and Custom Hooks",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=React%20State%20Management%20and%20Custom%20Hooks",
+    "skills": [
+      "react",
+      "javascript"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "web-react-fundamentals"
+    ],
+    "description": "Architect scalable frontend state solutions using React context, reducers, and reusable custom hooks. Integrate external API data feeds cleanly and optimize re-rendering performance."
+  },
+  {
+    "id": "web-nextjs-fullstack",
+    "title": "Full-Stack Development with Next.js and React",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Full-Stack%20Development%20with%20Next.js%20and%20React",
+    "skills": [
+      "next.js",
+      "react",
+      "typescript"
+    ],
+    "level": "intermediate",
+    "durationHrs": 28,
+    "prerequisites": [
+      "web-react-fundamentals",
+      "web-typescript-quickstart"
+    ],
+    "description": "Create production-grade web applications utilizing the Next.js App Router, server components, and route handlers. Implement server-side rendering, static site generation, and seamless full-stack data fetching."
+  },
+  {
+    "id": "web-postgresql-mastery",
+    "title": "PostgreSQL Database Administration and Querying",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=PostgreSQL%20Database%20Administration%20and%20Querying",
+    "skills": [
+      "postgresql",
+      "sql"
+    ],
+    "level": "intermediate",
+    "durationHrs": 24,
+    "prerequisites": [
+      "web-sql-fundamentals"
+    ],
+    "description": "Explore relational modeling, indexes, joins, and transaction isolation levels in PostgreSQL. Write performant queries, analyze execution plans with EXPLAIN, and design robust data schemas."
+  },
+  {
+    "id": "web-django-development",
+    "title": "Web Development with Django and Python",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Web%20Development%20with%20Django%20and%20Python",
+    "skills": [
+      "django",
+      "python"
+    ],
+    "level": "intermediate",
+    "durationHrs": 32,
+    "prerequisites": [
+      "web-python-programming-basics"
+    ],
+    "description": "Develop database-driven web applications using Django ORM, authentication system, and admin panel. Structure maintainable projects with reusable apps, forms, and secure request handling."
+  },
+  {
+    "id": "web-fastapi-backend",
+    "title": "High-Performance APIs with FastAPI and Python",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=High-Performance%20APIs%20with%20FastAPI%20and%20Python",
+    "skills": [
+      "fastapi",
+      "python",
+      "rest api"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "web-python-programming-basics",
+      "web-rest-api-basics"
+    ],
+    "description": "Build asynchronous RESTful APIs using Python type hints, Pydantic validation, and OpenAPI documentation with FastAPI. Handle background tasks, dependency injection, and high-concurrency requests cleanly."
+  },
+  {
+    "id": "web-node-express-apis",
+    "title": "Building Production REST APIs with Express and Node.js",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Building%20Production%20REST%20APIs%20with%20Express%20and%20Node.js",
+    "skills": [
+      "node.js",
+      "express.js",
+      "rest api"
+    ],
+    "level": "intermediate",
+    "durationHrs": 24,
+    "prerequisites": [
+      "web-node-js-fundamentals",
+      "web-express-js-quickstart"
+    ],
+    "description": "Implement authentication, role-based access control, request validation, and structured error handling in Express services. Connect your endpoints to relational and NoSQL databases for resilient data operations."
+  },
+  {
+    "id": "web-graphql-apis",
+    "title": "Building Modern APIs with GraphQL and Node.js",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Building%20Modern%20APIs%20with%20GraphQL%20and%20Node.js",
+    "skills": [
+      "graphql",
+      "node.js"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "web-node-js-fundamentals",
+      "web-rest-api-basics"
+    ],
+    "description": "Design expressive GraphQL schemas, resolvers, and mutations to serve precise client data requirements. Solve the N+1 problem using data loaders and integrate client caching strategies."
+  },
+  {
+    "id": "web-design-systems",
+    "title": "Design Systems and Component Libraries",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Design%20Systems%20and%20Component%20Libraries",
+    "skills": [
+      "design systems",
+      "ui design",
+      "tailwind css"
+    ],
+    "level": "intermediate",
+    "durationHrs": 15,
+    "prerequisites": [
+      "web-tailwind-css-quickstart",
+      "web-ui-design-principles"
+    ],
+    "description": "Standardize frontend design tokens, typography, and interactive components across multi-team applications. Publish reusable UI component libraries that maintain consistency and accessibility compliance."
+  },
+  {
+    "id": "web-ci-cd-pipelines",
+    "title": "CI/CD Pipelines with GitHub Actions",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=CI/CD%20Pipelines%20with%20GitHub%20Actions",
+    "skills": [
+      "ci/cd",
+      "github",
+      "git"
+    ],
+    "level": "intermediate",
+    "durationHrs": 14,
+    "prerequisites": [
+      "web-git-fundamentals"
+    ],
+    "description": "Automate automated testing, linting, building, and deployment workflows using GitHub Actions configuration syntax. Manage secrets, matrix builds, and continuous delivery pipelines across staging and production."
+  },
+  {
+    "id": "web-advanced-git-workflows",
+    "title": "Advanced Git Workflows and Team Collaboration",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Advanced%20Git%20Workflows%20and%20Team%20Collaboration",
+    "skills": [
+      "git",
+      "github"
+    ],
+    "level": "intermediate",
+    "durationHrs": 10,
+    "prerequisites": [
+      "web-git-fundamentals"
+    ],
+    "description": "Master interactive rebasing, cherry-picking, bisecting, and merge conflict resolution strategies in Git. Streamline branch policies, code reviews, and commit hygiene in professional engineering environments."
+  },
+  {
+    "id": "web-angular-core",
+    "title": "Angular Core Concepts and TypeScript Architecture",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Angular%20Core%20Concepts%20and%20TypeScript%20Architecture",
+    "skills": [
+      "angular",
+      "typescript"
+    ],
+    "level": "intermediate",
+    "durationHrs": 30,
+    "prerequisites": [
+      "web-typescript-quickstart"
+    ],
+    "description": "Build scalable enterprise single-page applications using Angular dependency injection, components, and RxJS observables. Manage forms, client-side routing, and HTTP communication with clean modular design."
+  },
+  {
+    "id": "web-ruby-on-rails-fundamentals",
+    "title": "Full-Stack Development with Ruby on Rails",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Full-Stack%20Development%20with%20Ruby%20on%20Rails",
+    "skills": [
+      "ruby on rails",
+      "ruby"
+    ],
+    "level": "intermediate",
+    "durationHrs": 26,
+    "prerequisites": [
+      "web-sql-fundamentals"
+    ],
+    "description": "Harness convention-over-configuration to construct complete full-stack web applications quickly with Ruby on Rails. Integrate ActiveRecord models, ActionController routing, and database migrations."
+  },
+  {
+    "id": "web-spring-boot-apis",
+    "title": "Building REST APIs with Spring Boot and Java",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Building%20REST%20APIs%20with%20Spring%20Boot%20and%20Java",
+    "skills": [
+      "spring boot",
+      "java",
+      "rest api"
+    ],
+    "level": "intermediate",
+    "durationHrs": 32,
+    "prerequisites": [
+      "web-rest-api-basics",
+      "web-sql-fundamentals"
+    ],
+    "description": "Construct enterprise-ready REST services using the Spring Boot framework, Spring Data JPA, and Spring MVC. Implement layered architectures, dependency injection, and automated database schema generation."
+  },
+  {
+    "id": "web-go-web-services",
+    "title": "Building High-Concurrency Web Services in Go",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Building%20High-Concurrency%20Web%20Services%20in%20Go",
+    "skills": [
+      "go",
+      "rest api"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "web-go-programming-basics",
+      "web-rest-api-basics"
+    ],
+    "description": "Develop lightweight HTTP microservices and API gateways using Go routines, channels, and HTTP handlers. Maximize throughput and manage resource contention with idiomatic concurrency patterns."
+  },
+  {
+    "id": "web-ab-testing-fundamentals",
+    "title": "A/B Testing and Feature Experimentation for Web Developers",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=A/B%20Testing%20and%20Feature%20Experimentation%20for%20Web%20Developers",
+    "skills": [
+      "a/b testing"
+    ],
+    "level": "intermediate",
+    "durationHrs": 12,
+    "prerequisites": [
+      "web-javascript-foundations"
+    ],
+    "description": "Design, implement, and evaluate controlled online experiments to test frontend features and user funnels. Understand statistical significance, feature flagging systems, and data-driven product decisions."
+  },
+  {
+    "id": "web-penetration-testing-web",
+    "title": "Web Application Penetration Testing and Defense",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Web%20Application%20Penetration%20Testing%20and%20Defense",
+    "skills": [
+      "penetration testing",
+      "application security"
+    ],
+    "level": "intermediate",
+    "durationHrs": 25,
+    "prerequisites": [
+      "web-application-security-basics"
+    ],
+    "description": "Perform ethical security assessments against web services using intercepting proxies and automated scanning tools. Identify vulnerabilities in authorization, session tokens, and input validation layers."
+  },
+  {
+    "id": "web-docker-compose-microservices",
+    "title": "Containerizing Multi-Service Applications with Docker",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Containerizing%20Multi-Service%20Applications%20with%20Docker",
+    "skills": [
+      "docker",
+      "linux"
+    ],
+    "level": "intermediate",
+    "durationHrs": 14,
+    "prerequisites": [
+      "web-docker-essentials",
+      "web-linux-command-line"
+    ],
+    "description": "Connect multi-container web stacks containing frontend apps, API backends, and databases using Docker Compose. Configure shared networks, persistent volumes, and environment variables for local orchestration."
+  },
+  {
+    "id": "web-mongodb-aggregation-node",
+    "title": "Advanced MongoDB with Node.js and Mongoose",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Advanced%20MongoDB%20with%20Node.js%20and%20Mongoose",
+    "skills": [
+      "mongodb",
+      "node.js"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "web-mongodb-basics",
+      "web-node-js-fundamentals"
+    ],
+    "description": "Model complex document structures and build robust data layers in Node.js with Mongoose schemas. Execute complex data analytics pipelines using the MongoDB aggregation framework."
+  },
+  {
+    "id": "web-microservices-distributed-architecture",
+    "title": "Architecting Microservices and Distributed Systems",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Architecting%20Microservices%20and%20Distributed%20Systems",
+    "skills": [
+      "microservices",
+      "docker",
+      "rest api"
+    ],
+    "level": "advanced",
+    "durationHrs": 40,
+    "prerequisites": [
+      "web-docker-compose-microservices",
+      "web-node-express-apis"
+    ],
+    "description": "Design resilient distributed systems utilizing event-driven microservices, service discovery, and API gateways. Address distributed transactions, data consistency, and fault tolerance across independent services."
+  },
+  {
+    "id": "web-advanced-nextjs-performance",
+    "title": "Advanced Next.js Architecture and Performance Optimization",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Advanced%20Next.js%20Architecture%20and%20Performance%20Optimization",
+    "skills": [
+      "next.js",
+      "react",
+      "typescript"
+    ],
+    "level": "advanced",
+    "durationHrs": 35,
+    "prerequisites": [
+      "web-nextjs-fullstack",
+      "web-intermediate-typescript"
+    ],
+    "description": "Optimize core web vitals and edge caching strategies in large-scale Next.js production deployments. Master advanced streaming, dynamic server rendering, and complex middleware interceptors."
+  },
+  {
+    "id": "web-advanced-react-internals",
+    "title": "React Internals, Fiber Architecture, and Performance",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=React%20Internals%2C%20Fiber%20Architecture%2C%20and%20Performance",
+    "skills": [
+      "react",
+      "javascript"
+    ],
+    "level": "advanced",
+    "durationHrs": 30,
+    "prerequisites": [
+      "web-intermediate-react",
+      "web-intermediate-javascript"
+    ],
+    "description": "Examine React reconciliation algorithms, the Fiber tree, and concurrent rendering mechanics under the hood. Profile memory allocations, debug rendering bottlenecks, and build high-performance component trees."
+  },
+  {
+    "id": "web-enterprise-angular-microfrontends",
+    "title": "Enterprise Angular and Micro-Frontend Architecture",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Enterprise%20Angular%20and%20Micro-Frontend%20Architecture",
+    "skills": [
+      "angular",
+      "typescript"
+    ],
+    "level": "advanced",
+    "durationHrs": 42,
+    "prerequisites": [
+      "web-angular-core",
+      "web-intermediate-typescript"
+    ],
+    "description": "Scale monolithic Angular codebases into federated micro-frontends using module federation and monorepos. Implement state synchronization, shared library governance, and strict boundary contracts."
+  },
+  {
+    "id": "web-advanced-postgresql-tuning",
+    "title": "Advanced PostgreSQL Performance Tuning and High Availability",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Advanced%20PostgreSQL%20Performance%20Tuning%20and%20High%20Availability",
+    "skills": [
+      "postgresql",
+      "sql"
+    ],
+    "level": "advanced",
+    "durationHrs": 36,
+    "prerequisites": [
+      "web-postgresql-mastery"
+    ],
+    "description": "Tune database configuration parameters, write custom indexes, and eliminate deadlocks in high-throughput PostgreSQL systems. Implement read replicas, connection pooling with PgBouncer, and automated failover strategies."
+  },
+  {
+    "id": "web-cloud-native-devops",
+    "title": "Cloud-Native CI/CD and Container Orchestration",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Cloud-Native%20CI/CD%20and%20Container%20Orchestration",
+    "skills": [
+      "ci/cd",
+      "docker",
+      "cloud computing"
+    ],
+    "level": "advanced",
+    "durationHrs": 45,
+    "prerequisites": [
+      "web-ci-cd-pipelines",
+      "web-docker-compose-microservices"
+    ],
+    "description": "Implement automated blue-green deployments, canary rollouts, and infrastructure monitoring in cloud environments. Coordinate containerized deployment pipelines with robust automated rollback triggers."
+  },
+  {
+    "id": "web-advanced-web-security",
+    "title": "Advanced Application Security and Threat Modeling",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Advanced%20Application%20Security%20and%20Threat%20Modeling",
+    "skills": [
+      "application security",
+      "penetration testing"
+    ],
+    "level": "advanced",
+    "durationHrs": 38,
+    "prerequisites": [
+      "web-penetration-testing-web"
+    ],
+    "description": "Perform formal threat modeling across complex web services to detect authentication bypasses and SSRF flaws. Enforce defense-in-depth policies, content security headers, and cryptographic integrity protections."
+  },
+  {
+    "id": "web-distributed-graphql-federation",
+    "title": "Federated GraphQL Architecture at Scale",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Federated%20GraphQL%20Architecture%20at%20Scale",
+    "skills": [
+      "graphql",
+      "microservices"
+    ],
+    "level": "advanced",
+    "durationHrs": 30,
+    "prerequisites": [
+      "web-graphql-apis",
+      "web-microservices-distributed-architecture"
+    ],
+    "description": "Compose multiple independent subgraph services into a unified federated GraphQL gateway. Solve schema composition conflicts, implement distributed caching, and enforce query complexity limits."
+  },
+  {
+    "id": "web-high-throughput-fastapi",
+    "title": "Scaling High-Throughput APIs with FastAPI and Asynchronous Python",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Scaling%20High-Throughput%20APIs%20with%20FastAPI%20and%20Asynchronous%20Python",
+    "skills": [
+      "fastapi",
+      "python"
+    ],
+    "level": "advanced",
+    "durationHrs": 32,
+    "prerequisites": [
+      "web-fastapi-backend"
+    ],
+    "description": "Optimize asynchronous event loops, connection pools, and distributed task queues in Python FastAPI servers. Benchmark endpoint latency, eliminate blocking I/O calls, and handle tens of thousands of concurrent requests."
+  },
+  {
+    "id": "web-advanced-spring-microservices",
+    "title": "Enterprise Microservices with Spring Boot and Spring Cloud",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Enterprise%20Microservices%20with%20Spring%20Boot%20and%20Spring%20Cloud",
+    "skills": [
+      "spring boot",
+      "microservices",
+      "java"
+    ],
+    "level": "advanced",
+    "durationHrs": 48,
+    "prerequisites": [
+      "web-spring-boot-apis",
+      "web-microservices-distributed-architecture"
+    ],
+    "description": "Build scalable cloud microservice topologies with Spring Cloud gateway, Eureka discovery, and circuit breakers. Implement distributed tracing, centralized configuration servers, and resilient inter-service messaging."
+  }
+]

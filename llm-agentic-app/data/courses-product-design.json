@@ -1,0 +1,805 @@
+[
+  {
+    "id": "biz-product-management-foundations",
+    "title": "Product Management Foundations",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Product%20Management%20Foundations",
+    "skills": [
+      "product management"
+    ],
+    "level": "beginner",
+    "durationHrs": 15,
+    "prerequisites": [],
+    "description": "Understand the lifecycle of digital products from initial customer discovery to launch and iteration. Explore the core responsibilities of a product manager in cross-functional tech teams."
+  },
+  {
+    "id": "biz-user-experience-fundamentals",
+    "title": "User Experience Design Essentials",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=User%20Experience%20Design%20Essentials",
+    "skills": [
+      "user experience",
+      "ux design"
+    ],
+    "level": "beginner",
+    "durationHrs": 16,
+    "prerequisites": [],
+    "description": "Learn human-centered design principles and methodologies to build intuitive digital software experiences. Conduct contextual inquiry and translate user pain points into meaningful product improvements."
+  },
+  {
+    "id": "biz-figma-for-beginners",
+    "title": "Figma UI Design and Prototyping for Beginners",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Figma%20UI%20Design%20and%20Prototyping%20for%20Beginners",
+    "skills": [
+      "figma",
+      "ui design",
+      "prototyping"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Master vector networks, frames, autolayout, and interactive components in Figma. Build click-through wireframes and mockups to communicate design ideas with speed and clarity."
+  },
+  {
+    "id": "biz-user-research-basics",
+    "title": "User Research and Usability Testing Essentials",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=User%20Research%20and%20Usability%20Testing%20Essentials",
+    "skills": [
+      "user research",
+      "usability testing"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Learn qualitative research methods including generative interviews, diary studies, and moderated usability testing. Gather unbiased user feedback to validate design concepts before building expensive code."
+  },
+  {
+    "id": "biz-agile-and-scrum-fundamentals",
+    "title": "Agile Methodologies and Scrum Foundations",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Agile%20Methodologies%20and%20Scrum%20Foundations",
+    "skills": [
+      "agile methodologies",
+      "scrum"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Explore the core values and twelve principles of the Agile Manifesto alongside Scrum ceremonial cadence. Understand sprint planning, daily standups, backlog refinement, and sprint retrospectives."
+  },
+  {
+    "id": "biz-wireframing-and-sketching",
+    "title": "Rapid Wireframing and Low-Fidelity Prototyping",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Rapid%20Wireframing%20and%20Low-Fidelity%20Prototyping",
+    "skills": [
+      "wireframing",
+      "prototyping"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Learn quick paper sketching and low-fidelity digital wireframing techniques to explore navigation flows rapidly. Iterate on screen structure and content hierarchy before committing to polished graphic styling."
+  },
+  {
+    "id": "biz-product-analytics-intro",
+    "title": "Introduction to Product Analytics and Metrics",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Introduction%20to%20Product%20Analytics%20and%20Metrics",
+    "skills": [
+      "product analytics",
+      "data analytics"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Learn how modern product teams define North Star metrics, activation rates, and monthly recurring engagement. Track conversion funnels and measure customer churn through behavioral event logging."
+  },
+  {
+    "id": "biz-user-stories-and-backlog",
+    "title": "Writing Effective User Stories and Acceptance Criteria",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Writing%20Effective%20User%20Stories%20and%20Acceptance%20Criteria",
+    "skills": [
+      "user stories",
+      "agile methodologies"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Craft clear, actionable user stories following the INVEST framework to align engineering and design teams. Define unambiguous acceptance criteria and Gherkin scenarios to prevent scope ambiguity during development sprints."
+  },
+  {
+    "id": "biz-communication-and-presentation",
+    "title": "Presentation Skills and Storytelling for Tech Professionals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Presentation%20Skills%20and%20Storytelling%20for%20Tech%20Professionals",
+    "skills": [
+      "presentation skills",
+      "cross-functional collaboration"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Deliver compelling presentations that synthesize complex product data into concise narrative structures. Build executive presence and articulate strategic design trade-offs persuasively to cross-functional audiences."
+  },
+  {
+    "id": "biz-journey-mapping-foundations",
+    "title": "Customer Journey Mapping and Persona Creation",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Customer%20Journey%20Mapping%20and%20Persona%20Creation",
+    "skills": [
+      "journey mapping",
+      "user experience"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Map out end-to-end customer touchpoints, emotional highs, and friction points across digital journey maps. Synthesize research observations into relatable buyer and user personas to guide feature definition."
+  },
+  {
+    "id": "biz-market-research-and-competitors",
+    "title": "Market Research and Competitive Analysis",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Market%20Research%20and%20Competitive%20Analysis",
+    "skills": [
+      "market research",
+      "competitive analysis"
+    ],
+    "level": "beginner",
+    "durationHrs": 12,
+    "prerequisites": [],
+    "description": "Analyze market dynamics, industry trends, and competing product offerings using structured benchmarking frameworks. Identify strategic gaps and value differentiation opportunities to position products effectively."
+  },
+  {
+    "id": "biz-kanban-principles",
+    "title": "Kanban Foundations for Agile Workflow Management",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Kanban%20Foundations%20for%20Agile%20Workflow%20Management",
+    "skills": [
+      "kanban",
+      "agile methodologies"
+    ],
+    "level": "beginner",
+    "durationHrs": 6,
+    "prerequisites": [],
+    "description": "Visualize workflow states, limit work in progress, and identify delivery bottlenecks using physical and virtual Kanban boards. Improve flow velocity and lead time consistency without imposing rigid timeboxed sprints."
+  },
+  {
+    "id": "biz-information-architecture-intro",
+    "title": "Information Architecture and Navigation Design",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Information%20Architecture%20and%20Navigation%20Design",
+    "skills": [
+      "information architecture",
+      "ux design"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Organize digital content structures, taxonomies, and sitemaps using open and closed card sorting techniques. Design intuitive navigation systems that enable users to discover information with minimal cognitive effort."
+  },
+  {
+    "id": "biz-technical-writing-for-product",
+    "title": "Technical Writing and Product Documentation Essentials",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Technical%20Writing%20and%20Product%20Documentation%20Essentials",
+    "skills": [
+      "technical writing"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Write precise Product Requirement Documents, release notes, and technical specifications for software development teams. Structure complex information clearly to reduce misinterpretation and accelerate engineering execution."
+  },
+  {
+    "id": "biz-feature-prioritization-basics",
+    "title": "Feature Prioritization Frameworks for Product Managers",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Feature%20Prioritization%20Frameworks%20for%20Product%20Managers",
+    "skills": [
+      "feature prioritization",
+      "product management"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Evaluate competing feature ideas systematically using RICE, MoSCoW, and Kano prioritization models. Balance customer value, technical effort, and business impact to maximize return on engineering investment."
+  },
+  {
+    "id": "biz-customer-success-fundamentals",
+    "title": "Customer Success Foundations and Retention Strategies",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Customer%20Success%20Foundations%20and%20Retention%20Strategies",
+    "skills": [
+      "customer success",
+      "cross-functional collaboration"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Understand client onboarding workflows, customer health scores, and proactive retention tactics in SaaS businesses. Align product updates with real customer feedback loops to cultivate sustained user loyalty."
+  },
+  {
+    "id": "biz-ui-design-and-typography",
+    "title": "Visual UI Design: Typography, Color, and Layout",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Visual%20UI%20Design%3A%20Typography%2C%20Color%2C%20and%20Layout",
+    "skills": [
+      "ui design",
+      "user experience"
+    ],
+    "level": "beginner",
+    "durationHrs": 14,
+    "prerequisites": [],
+    "description": "Master typography scales, contrast ratios, 8-point spatial grids, and visual hierarchy for modern screens. Create aesthetically pleasing interfaces that respect accessibility guidelines and brand identities."
+  },
+  {
+    "id": "biz-critical-thinking-problem-solving",
+    "title": "Critical Thinking and Structured Problem Solving",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Critical%20Thinking%20and%20Structured%20Problem%20Solving",
+    "skills": [
+      "critical thinking",
+      "problem solving"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Apply root-cause analysis, first-principles thinking, and decision trees to dismantle ambiguous business challenges. Avoid cognitive biases and evaluate evidence objectively when making high-stakes strategic choices."
+  },
+  {
+    "id": "biz-stakeholder-management-basics",
+    "title": "Stakeholder Management and Relationship Building",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Stakeholder%20Management%20and%20Relationship%20Building",
+    "skills": [
+      "stakeholder management",
+      "leadership"
+    ],
+    "level": "beginner",
+    "durationHrs": 10,
+    "prerequisites": [],
+    "description": "Identify internal and external stakeholders, map their influence and interests, and manage expectations proactively. Build trusted relationships across executive, commercial, and engineering divisions to drive alignment."
+  },
+  {
+    "id": "biz-interaction-design-basics",
+    "title": "Interaction Design and Micro-Interactions",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Interaction%20Design%20and%20Micro-Interactions",
+    "skills": [
+      "interaction design",
+      "ui design"
+    ],
+    "level": "beginner",
+    "durationHrs": 8,
+    "prerequisites": [],
+    "description": "Design intuitive state transitions, hover states, and meaningful feedback animations for digital interfaces. Guide user attention and confirm user actions through thoughtful interactive micro-moments."
+  },
+  {
+    "id": "biz-product-roadmapping-strategy",
+    "title": "Product Roadmapping: Strategy and Alignment",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Product%20Roadmapping%3A%20Strategy%20and%20Alignment",
+    "skills": [
+      "product roadmap",
+      "product strategy",
+      "product management"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "biz-product-management-foundations",
+      "biz-feature-prioritization-basics"
+    ],
+    "description": "Develop outcome-based product roadmaps using Now-Next-Later frameworks instead of rigid feature timelines. Align company strategy with product visions while communicating strategic milestones effectively to executives."
+  },
+  {
+    "id": "biz-advanced-figma-design-systems",
+    "title": "Figma for Design Systems: Tokens and Auto Layout",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Figma%20for%20Design%20Systems%3A%20Tokens%20and%20Auto%20Layout",
+    "skills": [
+      "figma",
+      "design systems",
+      "ui design"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "biz-figma-for-beginners",
+      "biz-ui-design-and-typography"
+    ],
+    "description": "Construct enterprise design systems in Figma using design tokens, component properties, and variable modes. Maintain versioned component libraries that synchronize seamlessly with frontend code repositories."
+  },
+  {
+    "id": "biz-applied-user-research",
+    "title": "Advanced User Research Methods and Quantitative Usability",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Advanced%20User%20Research%20Methods%20and%20Quantitative%20Usability",
+    "skills": [
+      "user research",
+      "usability testing",
+      "data analytics"
+    ],
+    "level": "intermediate",
+    "durationHrs": 24,
+    "prerequisites": [
+      "biz-user-research-basics"
+    ],
+    "description": "Conduct mixed-methods research integrating quantitative usability metrics like System Usability Scale with qualitative findings. Analyze user testing video recordings and distill complex customer feedback into prioritized design actions."
+  },
+  {
+    "id": "biz-product-experimentation-ab-testing",
+    "title": "Product Experimentation and A/B Testing in Practice",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Product%20Experimentation%20and%20A/B%20Testing%20in%20Practice",
+    "skills": [
+      "a/b testing",
+      "product analytics"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "biz-product-analytics-intro"
+    ],
+    "description": "Formulate rigorous experiment hypotheses and calculate statistical power requirements for product split tests. Interpret experiment results accurately to validate new feature adoption without degrading user experience."
+  },
+  {
+    "id": "biz-agile-product-ownership",
+    "title": "Agile Product Ownership and Scrum Delivery",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Agile%20Product%20Ownership%20and%20Scrum%20Delivery",
+    "skills": [
+      "scrum",
+      "product management",
+      "user stories"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "biz-agile-and-scrum-fundamentals",
+      "biz-user-stories-and-backlog"
+    ],
+    "description": "Manage product backlogs dynamically while balancing maintenance debt, customer bugs, and strategic feature delivery. Partner closely with Scrum Masters and engineering leads to protect team velocity and sprint health."
+  },
+  {
+    "id": "biz-cross-functional-leadership",
+    "title": "Leading Cross-Functional Teams Without Direct Authority",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Leading%20Cross-Functional%20Teams%20Without%20Direct%20Authority",
+    "skills": [
+      "leadership",
+      "cross-functional collaboration",
+      "stakeholder management"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "biz-stakeholder-management-basics"
+    ],
+    "description": "Rally multidisciplinary teams of engineers, designers, data scientists, and marketers around a shared product mission. Build psychological safety, resolve interdepartmental friction, and foster a collaborative delivery culture."
+  },
+  {
+    "id": "biz-advanced-interaction-design",
+    "title": "Interaction Design and Complex UX Flows",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Interaction%20Design%20and%20Complex%20UX%20Flows",
+    "skills": [
+      "interaction design",
+      "ux design",
+      "information architecture"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "biz-interaction-design-basics",
+      "biz-information-architecture-intro"
+    ],
+    "description": "Architect multi-step transactional workflows, complex enterprise filtering, and multi-tenant permission controls. Ensure resilient error recovery states and progressive disclosure patterns across complex web applications."
+  },
+  {
+    "id": "biz-strategic-negotiation-influence",
+    "title": "Negotiation, Influence, and Conflict Resolution for Leaders",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Negotiation%2C%20Influence%2C%20and%20Conflict%20Resolution%20for%20Leaders",
+    "skills": [
+      "negotiation",
+      "leadership",
+      "stakeholder management"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "biz-communication-and-presentation"
+    ],
+    "description": "Master principled negotiation techniques to secure organizational resources, resolve roadmap disputes, and align vendor contracts. Influence key decision makers constructively when facing competing departmental priorities."
+  },
+  {
+    "id": "biz-data-driven-product-growth",
+    "title": "Product-Led Growth and Retention Analytics",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Product-Led%20Growth%20and%20Retention%20Analytics",
+    "skills": [
+      "product analytics",
+      "product strategy"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "biz-product-analytics-intro",
+      "biz-market-research-and-competitors"
+    ],
+    "description": "Design frictionless self-serve onboarding funnels, viral expansion loops, and freemium-to-paid conversion triggers. Instrument behavioral analytics to pinpoint drop-off moments and optimize customer lifetime value."
+  },
+  {
+    "id": "biz-design-systems-governance",
+    "title": "Design Systems Management and Multi-Team Governance",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Design%20Systems%20Management%20and%20Multi-Team%20Governance",
+    "skills": [
+      "design systems",
+      "cross-functional collaboration"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "biz-figma-for-beginners",
+      "web-design-systems"
+    ],
+    "description": "Establish contribution models, deprecation lifecycles, and governance review boards for enterprise design systems. Facilitate cross-team adoption and measure design system token utilization across production apps."
+  },
+  {
+    "id": "biz-change-management-leadership",
+    "title": "Change Management and Organizational Transformation",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Change%20Management%20and%20Organizational%20Transformation",
+    "skills": [
+      "change management",
+      "leadership"
+    ],
+    "level": "intermediate",
+    "durationHrs": 15,
+    "prerequisites": [
+      "biz-stakeholder-management-basics"
+    ],
+    "description": "Navigate organizational shifts, restructuring, and technology migrations using proven change management frameworks. Overcome employee resistance, establish clear feedback loops, and sustain long-term operational adoption."
+  },
+  {
+    "id": "biz-enterprise-journey-orchestration",
+    "title": "Omnichannel Journey Mapping and Service Design",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Omnichannel%20Journey%20Mapping%20and%20Service%20Design",
+    "skills": [
+      "journey mapping",
+      "user experience",
+      "customer success"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "biz-journey-mapping-foundations",
+      "biz-customer-success-fundamentals"
+    ],
+    "description": "Connect frontstage customer touchpoints with backstage operational processes through comprehensive service blueprints. Identify service breakdowns between digital applications, support agents, and billing systems to eliminate churn."
+  },
+  {
+    "id": "biz-agile-kanban-scaling",
+    "title": "Scaling Kanban and Flow Optimization in Tech Organizations",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Scaling%20Kanban%20and%20Flow%20Optimization%20in%20Tech%20Organizations",
+    "skills": [
+      "kanban",
+      "agile methodologies"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "biz-kanban-principles"
+    ],
+    "description": "Apply statistical process control, Cumulative Flow Diagrams, and Monte Carlo forecasts to optimize delivery flow. Coordinate multi-team value streams and align asynchronous work across remote development hubs."
+  },
+  {
+    "id": "biz-competitive-product-strategy",
+    "title": "Competitive Strategy and Market Positioning",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Competitive%20Strategy%20and%20Market%20Positioning",
+    "skills": [
+      "competitive analysis",
+      "product strategy",
+      "market research"
+    ],
+    "level": "intermediate",
+    "durationHrs": 22,
+    "prerequisites": [
+      "biz-market-research-and-competitors"
+    ],
+    "description": "Evaluate competitive moats, pricing elasticities, and threat of disruption using Porter Five Forces and Blue Ocean strategy. Formulate differentiated value propositions that capture market share against entrenched competitors."
+  },
+  {
+    "id": "biz-high-fidelity-prototyping",
+    "title": "Advanced Interactive Prototyping and Micro-Animations",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Advanced%20Interactive%20Prototyping%20and%20Micro-Animations",
+    "skills": [
+      "prototyping",
+      "figma",
+      "interaction design"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "biz-figma-for-beginners",
+      "biz-interaction-design-basics"
+    ],
+    "description": "Build realistic, high-fidelity prototypes featuring conditional logic, variable states, and animated micro-interactions. Test nuanced interactions with actual end-users before writing frontend animation code."
+  },
+  {
+    "id": "biz-product-requirement-discovery",
+    "title": "Continuous Product Discovery and Customer Interviews",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Continuous%20Product%20Discovery%20and%20Customer%20Interviews",
+    "skills": [
+      "user research",
+      "product management",
+      "critical thinking"
+    ],
+    "level": "intermediate",
+    "durationHrs": 18,
+    "prerequisites": [
+      "biz-product-management-foundations",
+      "biz-user-research-basics"
+    ],
+    "description": "Establish weekly customer interview rhythms to discover unmet user needs and test opportunity solution trees. Validate problem-solution fit continuously while avoiding confirmation bias and false assumptions."
+  },
+  {
+    "id": "biz-accessibility-in-ux",
+    "title": "Inclusive UX Design and Digital Accessibility",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Inclusive%20UX%20Design%20and%20Digital%20Accessibility",
+    "skills": [
+      "ux design",
+      "ui design",
+      "compliance"
+    ],
+    "level": "intermediate",
+    "durationHrs": 14,
+    "prerequisites": [
+      "biz-user-experience-fundamentals",
+      "biz-ui-design-and-typography"
+    ],
+    "description": "Design accessible digital products conforming strictly to WCAG 2.2 Level AA guidelines and standards. Evaluate screen reader workflows, keyboard navigation, focus indicators, and color perception considerations."
+  },
+  {
+    "id": "biz-strategic-planning-for-tech",
+    "title": "Strategic Planning and OKRs for Product Organizations",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Strategic%20Planning%20and%20OKRs%20for%20Product%20Organizations",
+    "skills": [
+      "strategic planning",
+      "product strategy"
+    ],
+    "level": "intermediate",
+    "durationHrs": 16,
+    "prerequisites": [
+      "biz-product-management-foundations"
+    ],
+    "description": "Translate executive vision into actionable annual objectives and quarterly measurable key results across business units. Cascade goals down to autonomous product teams while maintaining alignment and accountability."
+  },
+  {
+    "id": "biz-analytics-for-decision-making",
+    "title": "Data Analytics and Quantitative Decision Making",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Data%20Analytics%20and%20Quantitative%20Decision%20Making",
+    "skills": [
+      "data analytics",
+      "problem solving",
+      "critical thinking"
+    ],
+    "level": "intermediate",
+    "durationHrs": 20,
+    "prerequisites": [
+      "biz-product-analytics-intro"
+    ],
+    "description": "Synthesize large quantitative datasets to separate meaningful signals from random fluctuations in product KPIs. Leverage probabilistic models and hypothesis testing to validate critical investment decisions."
+  },
+  {
+    "id": "biz-cross-cultural-communication",
+    "title": "Cross-Functional Collaboration and Remote Team Dynamics",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Cross-Functional%20Collaboration%20and%20Remote%20Team%20Dynamics",
+    "skills": [
+      "cross-functional collaboration",
+      "technical writing",
+      "leadership"
+    ],
+    "level": "intermediate",
+    "durationHrs": 12,
+    "prerequisites": [
+      "biz-communication-and-presentation",
+      "biz-technical-writing-for-product"
+    ],
+    "description": "Build high-performing asynchronous work habits and documentation cultures across distributed international teams. Foster transparent communication, overcome cultural communication gaps, and maintain project momentum across timezones."
+  },
+  {
+    "id": "biz-chief-product-officer-playbook",
+    "title": "Executive Product Leadership and Portfolio Strategy",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Executive%20Product%20Leadership%20and%20Portfolio%20Strategy",
+    "skills": [
+      "product strategy",
+      "leadership",
+      "strategic planning"
+    ],
+    "level": "advanced",
+    "durationHrs": 38,
+    "prerequisites": [
+      "biz-product-roadmapping-strategy",
+      "biz-strategic-planning-for-tech"
+    ],
+    "description": "Manage multi-product portfolios, capital allocation budgets, and long-term innovation bets at the executive level. Lead product transformations, mentor director-level leaders, and report strategic progress to boards of directors."
+  },
+  {
+    "id": "biz-enterprise-design-leadership",
+    "title": "Design Leadership, Organization Design, and UX Strategy",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Design%20Leadership%2C%20Organization%20Design%2C%20and%20UX%20Strategy",
+    "skills": [
+      "ux design",
+      "leadership",
+      "strategic planning"
+    ],
+    "level": "advanced",
+    "durationHrs": 35,
+    "prerequisites": [
+      "biz-advanced-figma-design-systems",
+      "biz-cross-functional-leadership"
+    ],
+    "description": "Scale design organizations from individual squads into unified design directorates across enterprise divisions. Measure business ROI of design initiatives and champion user-centered culture at the C-suite table."
+  },
+  {
+    "id": "biz-advanced-product-analytics-causality",
+    "title": "Advanced Product Analytics, Causal Inference, and Growth Modeling",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Advanced%20Product%20Analytics%2C%20Causal%20Inference%2C%20and%20Growth%20Modeling",
+    "skills": [
+      "product analytics",
+      "a/b testing",
+      "data analytics"
+    ],
+    "level": "advanced",
+    "durationHrs": 40,
+    "prerequisites": [
+      "biz-product-experimentation-ab-testing",
+      "biz-data-driven-product-growth"
+    ],
+    "description": "Apply quasi-experimental causal inference techniques such as difference-in-differences when random split testing is unfeasible. Build mathematical growth accounting models to predict enterprise expansion and retention."
+  },
+  {
+    "id": "biz-large-scale-agile-transformation",
+    "title": "Enterprise Agile Transformation and Scaled Frameworks",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Enterprise%20Agile%20Transformation%20and%20Scaled%20Frameworks",
+    "skills": [
+      "agile methodologies",
+      "change management",
+      "leadership"
+    ],
+    "level": "advanced",
+    "durationHrs": 42,
+    "prerequisites": [
+      "biz-agile-product-ownership",
+      "biz-change-management-leadership"
+    ],
+    "description": "Lead large-scale agile transformations across hundreds of software engineers, product managers, and business leaders. Align multi-team release trains, streamline governance overhead, and accelerate time-to-market."
+  },
+  {
+    "id": "biz-complex-stakeholder-alignment",
+    "title": "Executive Stakeholder Alignment and Strategic Negotiation",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/search?query=Executive%20Stakeholder%20Alignment%20and%20Strategic%20Negotiation",
+    "skills": [
+      "stakeholder management",
+      "negotiation",
+      "leadership"
+    ],
+    "level": "advanced",
+    "durationHrs": 32,
+    "prerequisites": [
+      "biz-strategic-negotiation-influence",
+      "biz-cross-functional-leadership"
+    ],
+    "description": "Navigate high-stakes political landscapes, corporate governance conflicts, and M&A integrations with poise. Craft win-win alignment across contentious board members, founding executives, and external stakeholders."
+  },
+  {
+    "id": "biz-product-led-growth-architecture",
+    "title": "Architecting Enterprise Product-Led Growth Systems",
+    "provider": "Official Docs",
+    "url": "https://www.google.com/search?q=Architecting%20Enterprise%20Product-Led%20Growth%20Systems",
+    "skills": [
+      "product strategy",
+      "product analytics",
+      "customer success"
+    ],
+    "level": "advanced",
+    "durationHrs": 36,
+    "prerequisites": [
+      "biz-data-driven-product-growth",
+      "biz-competitive-product-strategy"
+    ],
+    "description": "Design enterprise product-led sales hybrid models where bottom-up product adoption fuels top-down enterprise contracts. Instrument product-qualified lead scoring and build automated expansion triggers into core user workflows."
+  },
+  {
+    "id": "biz-advanced-user-research-operations",
+    "title": "Research Operations and Strategic Insight Synthesis",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Research%20Operations%20and%20Strategic%20Insight%20Synthesis",
+    "skills": [
+      "user research",
+      "user experience",
+      "strategic planning"
+    ],
+    "level": "advanced",
+    "durationHrs": 30,
+    "prerequisites": [
+      "biz-applied-user-research",
+      "biz-enterprise-journey-orchestration"
+    ],
+    "description": "Scale user research repositories, participant recruitment pipelines, and ethical research governance across global organizations. Synthesize foundational research findings into durable corporate knowledge that informs multi-year product bets."
+  },
+  {
+    "id": "biz-advanced-design-systems-scale",
+    "title": "Design Systems at Scale: Architecture, Multi-Brand, and Tokens",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Design%20Systems%20at%20Scale%3A%20Architecture%2C%20Multi-Brand%2C%20and%20Tokens",
+    "skills": [
+      "design systems",
+      "ui design",
+      "cross-functional collaboration"
+    ],
+    "level": "advanced",
+    "durationHrs": 34,
+    "prerequisites": [
+      "biz-design-systems-governance",
+      "biz-advanced-figma-design-systems"
+    ],
+    "description": "Architect multi-brand and multi-platform design system infrastructures serving mobile, web, and internal tools. Standardize automated design token compilation and enforce automated accessibility validation in CI pipelines."
+  },
+  {
+    "id": "biz-competitive-disruption-and-moats",
+    "title": "Competitive Strategy: Platform Ecosystems and Defensible Moats",
+    "provider": "edX",
+    "url": "https://www.edx.org/search?q=Competitive%20Strategy%3A%20Platform%20Ecosystems%20and%20Defensible%20Moats",
+    "skills": [
+      "competitive analysis",
+      "product strategy",
+      "strategic planning"
+    ],
+    "level": "advanced",
+    "durationHrs": 35,
+    "prerequisites": [
+      "biz-competitive-product-strategy"
+    ],
+    "description": "Architect two-sided platform ecosystems, network effects, and high-switching-cost data moats in tech markets. Defend core market segments against aggressive venture-backed challengers and anticipate platform shifts."
+  },
+  {
+    "id": "biz-executive-storytelling-and-vision",
+    "title": "Executive Vision, Keynotes, and High-Impact Storytelling",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Executive%20Vision%2C%20Keynotes%2C%20and%20High-Impact%20Storytelling",
+    "skills": [
+      "presentation skills",
+      "leadership",
+      "technical writing"
+    ],
+    "level": "advanced",
+    "durationHrs": 28,
+    "prerequisites": [
+      "biz-communication-and-presentation",
+      "biz-cross-cultural-communication"
+    ],
+    "description": "Craft memorable keynote narratives, investor pitches, and internal vision addresses that galvanize entire organizations. Inspire engineering and business teams around ambitious technological futures through authentic executive communication."
+  }
+]
